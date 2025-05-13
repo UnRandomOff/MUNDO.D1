@@ -1,40 +1,3522 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1747175761314 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1747177034995 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747175764387 tunnel running, 1 tunnels registered
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177038274 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747175768466 tunnel running, 1 tunnels registered
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177041543 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747175772377 tunnel running, 1 tunnels registered
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177044619 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747175775892 tunnel running, 1 tunnels registered
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177047715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747175779248 tunnel running, 1 tunnels registered
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177051003 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747175782674 tunnel running, 1 tunnels registered
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177054067 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747175786008 tunnel running, 1 tunnels registered
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177057550 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177060780 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177064022 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177067279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177070837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177074198 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177077660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177081002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177084197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177087277 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177090364 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177093454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177096700 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177099963 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177103380 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177106475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177109861 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177113125 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177116334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177119625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177123014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177126124 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177129467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177132576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177135834 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177139054 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177142263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177145376 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177148460 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177151534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177154950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177158151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177161366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177164546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177167976 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177171314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177174394 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177178664 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177183109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177187644 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177190817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177195279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177198345 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177201423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177204600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177207826 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177210907 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177213990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177217995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177221214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177224290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177228704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177231789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177235422 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177238494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177241777 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177244934 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177248094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177251199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177254323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177257399 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177260551 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177263642 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177266928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177270166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177273882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177278260 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177282666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177286727 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177290819 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177294046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177297497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177301336 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177304747 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177308072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177311270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177314339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177317660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177320922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177324473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177327719 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177331566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177335008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177338097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177341346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177344718 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177347836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177350936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177354000 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177357079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177360150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177363220 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177366304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177369437 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177372514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177375586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177378666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177381735 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177384810 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177387876 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177390973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177394137 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177397211 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177400280 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177403359 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177406427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177409495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177412606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177415690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177418766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177421884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177424966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177428036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177431382 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177434472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177437547 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177440639 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177443717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177447017 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177450090 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177453154 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177456220 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177459299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177462382 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177465450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177468535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177471610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177474688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177477765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177480841 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177483912 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177486989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177490070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177493175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177496242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177499308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177502379 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177505446 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177508529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177511615 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177514694 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177517781 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177520881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177523973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177527045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177530122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177533197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177536262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177539348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177542438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177545499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177548585 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177551664 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177554740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177557812 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177560900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177563971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177567043 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177570125 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177573211 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177576280 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177579352 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177582456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177585526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177588595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177591676 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177594744 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177597826 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177600929 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177604002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177607066 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177610140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177613204 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177616279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177619359 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177622443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177625516 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177628593 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177631706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177634772 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177637837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177640912 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177643996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177647062 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177650129 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177653208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177656279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177659352 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177662431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177665507 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177668594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177671677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177674741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177677862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177680949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177684021 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177687106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177690262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177693330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177696408 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177699483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177702559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177705639 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177708714 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177711782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177714848 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177717921 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177720995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177724087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177727170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177730310 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177733389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177736459 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177739533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177742610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177745717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177748795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177751897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177754991 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177758091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177761160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177764230 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177767312 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177770441 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177773538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177776606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177779669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177782753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177785857 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177788940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177792047 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177795145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177798225 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177801298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177804379 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177807445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177810640 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177813712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177816799 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177819885 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177822955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177826032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177829109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177832204 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177835271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177838410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177841481 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177844568 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177847640 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177850714 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177853790 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177856865 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177859931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177863124 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177866188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177869271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177872600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177875677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177878813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177881893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177884981 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177888060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177891254 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177894483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177897622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177900730 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177903829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177906947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177910019 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177913110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177916194 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177919274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177922394 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177925483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177928622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177931698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177934767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177937845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177940922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177944011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177947089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177950151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177953238 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177956315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177959399 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177962638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177965718 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177968784 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177971871 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177974959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177978051 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177981190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177984258 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177987330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177990403 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177993523 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177996600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747177999677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178002746 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178005828 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178008900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178011975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178015051 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178018126 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178021200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178024289 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178027396 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178030461 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178033574 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178036642 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178039722 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178042798 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178045869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178049081 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178052209 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178055279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178058352 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178061424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178064502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178067628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178070925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178074000 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178077068 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178080151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178083287 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178086364 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178089445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178092521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178095612 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178098714 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178101792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178104855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178107925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178110991 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178114088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178117159 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178120248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178123332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178126412 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178129478 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178132546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178135626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178138696 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178141763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178144884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178147954 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178151028 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178154097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178157177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178160263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178163329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178166394 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178169476 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178172637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178175710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178178797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178181866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178184941 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178188029 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178191098 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178194170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178197244 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178200313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178203421 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178206499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178209589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178212654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178215726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178218826 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178221900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178224975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178228041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178231106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178234185 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178237252 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178240319 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178243419 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178246515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178249588 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178252658 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178255743 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178258822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178262011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178265088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178268159 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178271235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178274306 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178277385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178280460 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178283539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178286631 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178289702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178292778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178295863 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178298930 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178301997 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178305078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178308157 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178311234 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178314305 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178317375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178320461 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178323559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178326638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178329709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178332819 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178335921 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178338993 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178342070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178345144 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178348210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178351289 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178354366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178357438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178360520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178363586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178366662 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178369750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178372855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178376126 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178379206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178382271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178385343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178388438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178391504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178394573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178397651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178400931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178404323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178407424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178410511 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178413658 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178416739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178419822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178422938 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178426027 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178429099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178432186 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178435268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178438338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178441537 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178444607 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178447672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178451008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178454076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178457172 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178460249 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178463326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178466400 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178469471 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178472775 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178475845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178478925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178481991 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178485087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178488157 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178491228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178494291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178497357 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178500425 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178503522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178507014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178510232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178513299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178516436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178519835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178522913 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178525981 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178529117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178532195 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178535257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178538323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178541403 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178544473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178547564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178550996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178554069 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178557135 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178560220 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178563299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178566367 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178569436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178572508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178575579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178578666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178581940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178585157 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178588233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178591363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178594442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178597517 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178600704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178603793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178606952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178610022 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178613112 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178616190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178619266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178623031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178626108 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178629180 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178632242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178635311 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178638393 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178641464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178644598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178648502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178651612 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178654681 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178657750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178660828 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178663899 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178667177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178670250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178673595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178676670 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178679752 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178682976 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178686047 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178689314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178692401 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178695467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178698608 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178701708 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178704953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178708128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178711199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178714289 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178717369 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178720440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178723542 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178727270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178730346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178733416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178736514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178739594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178742744 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178745870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178748945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178752031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178755157 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178758257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178761359 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178764869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178767970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178771037 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178774410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178777508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178780579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178783648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178786715 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178789793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178792872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178795939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178799067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178802136 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178805201 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178808340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178811895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178814967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178818429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178821505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178824855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178828006 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178831116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178834173 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178837291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178840383 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178843445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178846527 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178849614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178852814 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178855879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178858966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178862039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178865122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178868188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178871335 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178874418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747178877480 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+industry-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+mobile-permissions.gl.at.ply.gg:2591 => 127.0.0.1:2591 (proto: Udp, port count: 1)
