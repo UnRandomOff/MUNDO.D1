@@ -1,13 +1,13 @@
 {
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2025-05-13 23:35:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/wooden_button": {
+  "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
-      "has_planks": "2025-05-13 23:35:35 +0000"
+      "has_stick": "2025-05-13 23:38:24 +0000"
     },
     "done": true
   },
@@ -17,9 +17,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/trapdoor": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "has_planks": "2025-05-13 23:35:35 +0000"
+      "has_the_recipe": "2025-05-13 23:38:23 +0000"
     },
     "done": true
   },
@@ -29,9 +29,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "entered_water": "2025-05-13 22:50:50 +0000"
+      "creeper": "2025-05-13 23:42:51 +0000"
     },
     "done": true
   },
@@ -41,23 +41,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "has_planks": "2025-05-13 23:35:35 +0000"
+      "creeper": "2025-05-13 23:42:51 +0000"
     },
-    "done": true
-  },
-  "minecraft:recipes/redstone/fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-13 23:35:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "entered_water": "2025-05-13 22:50:50 +0000"
-    },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
@@ -68,6 +56,98 @@
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-05-13 23:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-05-13 23:39:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-05-13 23:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest_hills": "2025-05-13 23:33:36 +0000",
+      "plains": "2025-05-13 22:46:56 +0000",
+      "river": "2025-05-13 22:50:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-05-13 23:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2025-05-13 23:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-13 23:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-05-13 23:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-13 23:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2025-05-13 22:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-13 23:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-13 23:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-05-13 23:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-13 23:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-13 23:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2025-05-13 22:50:50 +0000"
     },
     "done": true
   },
@@ -86,6 +166,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-05-13 23:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-13 23:43:00 +0000"
     },
     "done": true
   },
@@ -118,13 +204,5 @@
       "entered_water": "2025-05-13 22:50:50 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "forest_hills": "2025-05-13 23:33:36 +0000",
-      "plains": "2025-05-13 22:46:56 +0000",
-      "river": "2025-05-13 22:50:53 +0000"
-    },
-    "done": false
   }
 }
