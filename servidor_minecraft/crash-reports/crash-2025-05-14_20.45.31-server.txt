@@ -1,0 +1,100 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  CoreModLoader (soundphysics-1.1.12.jar)
+  XaeroMinimapPlugin (Xaeros_Minimap_25.2.0_Forge_1.12.jar)
+  MixinBooter (!mixinbooter-10.6.jar)
+  SecurityCraftLoadingPlugin ([1.12.2] SecurityCraft v1.10.jar)
+  OTGCorePlugin (OTG-Core.jar)
+  TransformLoader (DynamicSurroundings-1.12.2-3.6.3.jar)
+Contact their authors BEFORE contacting forge
+
+// This doesn't make any sense!
+
+Time: 5/14/25 8:45 PM
+Description: Exception in server tick loop
+
+Missing Mods:
+	unknown : need [3.6.0.1,): have missing
+
+net.minecraftforge.fml.common.MissingModsException: Mod dsurround (Dynamic Surroundings) requires [orelib@[3.6.0.1,)]
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:266)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:572)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:750)
+
+No Mixin Metadata is found in the Stacktrace.
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 6.8.0-1027-azure
+	Java Version: 1.8.0_452, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 1698177840 bytes (1619 MB) / 2553806848 bytes (2435 MB) up to 11453595648 bytes (10923 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx12G
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 22 mods loaded, 22 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                   | Version        | Source                                        | Signature                                |
+	|:----- |:-------------------- |:-------------- |:--------------------------------------------- |:---------------------------------------- |
+	| L     | minecraft            | 1.12.2         | minecraft.jar                                 | None                                     |
+	| L     | mcp                  | 9.42           | minecraft.jar                                 | None                                     |
+	| L     | FML                  | 8.0.99.99      | forge-1.12.2-14.23.5.2860.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| L     | forge                | 14.23.5.2860   | forge-1.12.2-14.23.5.2860.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| L     | otgcore              | 1.12.2-v9.5-R2 | minecraft.jar                                 | None                                     |
+	| L     | xaerominimap_core    | 1.12.2-1.0     | minecraft.jar                                 | None                                     |
+	| L     | mixinbooter          | 10.6           | minecraft.jar                                 | None                                     |
+	| L     | securitycraft        | v1.10          | [1.12.2] SecurityCraft v1.10.jar              | None                                     |
+	| L     | bettercaves          | 1.12.2         | bettercaves-1.12.2-2.0.4.jar                  | None                                     |
+	| L     | biomebundle          | 5.1            | Biome_Bundle-1.12.2-v6.1.jar                  | None                                     |
+	| L     | customspawner        | 3.11.4         | CustomMobSpawner-3.11.5.jar                   | None                                     |
+	| L     | mocreatures          | 12.0.5         | DrZharks MoCreatures Mod-12.0.5.jar           | None                                     |
+	| L     | dsurround            | @VERSION@      | DynamicSurroundings-1.12.2-3.6.3.jar          | None                                     |
+	| L     | gravestone           | 1.10.3         | gravestone-1.10.3.jar                         | None                                     |
+	| L     | jei                  | 4.16.1.1013    | jei_1.12.2-4.16.1.1013.jar                    | None                                     |
+	| L     | mca                  | 6.1.0          | MCA-1.12.2-6.1.0-universal.jar                | None                                     |
+	| L     | openterraingenerator | v9.5-R2        | OpenTerrainGenerator-1.12.2-v9.5-R2.jar       | None                                     |
+	| L     | soundphysics         | 1.1.12         | soundphysics-1.1.12.jar                       | None                                     |
+	| L     | travelersbackpack    | 1.0.35         | TravelersBackpack-1.12.2-1.0.35.jar           | None                                     |
+	| L     | twilightforest       | 3.11.1021      | twilightforest-1.12.2-3.11.1021-universal.jar | None                                     |
+	| L     | voicechat            | 1.12.2-2.5.30  | voicechat-forge-1.12.2-2.5.30.jar             | None                                     |
+	| L     | xaerominimap         | 25.2.0         | Xaeros_Minimap_25.2.0_Forge_1.12.jar          | None                                     |
+
+	Loaded coremods (and transformers): 
+CoreModLoader (soundphysics-1.1.12.jar)
+  
+XaeroMinimapPlugin (Xaeros_Minimap_25.2.0_Forge_1.12.jar)
+  xaero.common.core.transformer.ChunkTransformer
+  xaero.common.core.transformer.NetHandlerPlayClientTransformer
+  xaero.common.core.transformer.EntityPlayerTransformer
+  xaero.common.core.transformer.AbstractClientPlayerTransformer
+  xaero.common.core.transformer.WorldClientTransformer
+  xaero.common.core.transformer.EntityPlayerMPTransformer
+  xaero.common.core.transformer.EntityPlayerSPTransformer
+  xaero.common.core.transformer.PlayerListTransformer
+  xaero.common.core.transformer.SaveFormatTransformer
+  xaero.common.core.transformer.GuiIngameForgeTransformer
+  xaero.common.core.transformer.KeyBindingTransformer
+  xaero.common.core.transformer.MinecraftServerTransformer
+  xaero.common.core.transformer.GuiBossOverlayTransformer
+  xaero.common.core.transformer.ModelRendererTransformer
+MixinBooter (!mixinbooter-10.6.jar)
+  
+SecurityCraftLoadingPlugin ([1.12.2] SecurityCraft v1.10.jar)
+  
+OTGCorePlugin (OTG-Core.jar)
+  com.pg85.otg.forge.asm.excluded.OTGClassTransformer
+TransformLoader (DynamicSurroundings-1.12.2-3.6.3.jar)
+  
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
