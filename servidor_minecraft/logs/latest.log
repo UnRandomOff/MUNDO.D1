@@ -151,3 +151,25 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [06:41:44] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
 [06:42:30] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
 [06:42:30] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2859,mocreatures@12.0.5,bettercaves@1.12.2,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,travelersbackpack@1.0.35
+[06:42:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[06:42:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AdlaCraftOficial[/127.93.79.167:50307] logged in with entity id 22820 at (181.5, 63.0, 173.5)
+[06:42:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftOficial joined the game
+[06:42:42] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of AdlaCraftOficial (18)
+[06:42:42] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftOficial
+[06:42:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 7932e640-2cf8-3e03-a84c-207caffd41b0
+[06:42:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 7932e640-2cf8-3e03-a84c-207caffd41b0
+[06:42:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftOficial (7932e640-2cf8-3e03-a84c-207caffd41b0) successfully connected to voice chat
+[06:43:20] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[06:43:20] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,travelersbackpack@1.0.35
+[06:43:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[06:43:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AdlaCraftYT[/127.93.79.167:39921] logged in with entity id 23146 at (200.76881960419138, 70.0, 230.69999998807907)
+[06:43:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT joined the game
+[06:43:26] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of AdlaCraftYT (18)
+[06:43:26] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[06:43:32] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[06:43:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[06:43:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[06:43:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftOficial lost connection: Disconnected
+[06:43:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftOficial left the game
+[06:43:46] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftOficial
+[06:51:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT was slain by Zombie Villager

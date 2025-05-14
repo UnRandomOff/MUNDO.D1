@@ -7888,3 +7888,69 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [06:42:30] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:14 mods->FMLHandshakeServerState$2:HELLO
 [06:42:30] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2859,mocreatures@12.0.5,bettercaves@1.12.2,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,travelersbackpack@1.0.35
 [06:42:30] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[06:42:30] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[06:42:30] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[06:42:31] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[06:42:31] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[06:42:31] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[06:42:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[06:42:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AdlaCraftOficial[/127.93.79.167:50307] logged in with entity id 22820 at (181.5, 63.0, 173.5)
+[06:42:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftOficial joined the game
+[06:42:31] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of AdlaCraftOficial: {disabled=false, disconnected=true, uuid=7932e640-2cf8-3e03-a84c-207caffd41b0, name=AdlaCraftOficial, group=null}
+[06:42:31] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[06:42:42] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of AdlaCraftOficial (18)
+[06:42:42] [Server thread/DEBUG] [voicechat]: [voicechat] Sending initial states to AdlaCraftOficial
+[06:42:42] [Server thread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with AdlaCraftOficial
+[06:42:42] [Server thread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with AdlaCraftOficial
+[06:42:42] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftOficial
+[06:42:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 7932e640-2cf8-3e03-a84c-207caffd41b0
+[06:42:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 7932e640-2cf8-3e03-a84c-207caffd41b0
+[06:42:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of AdlaCraftOficial to connected: {disabled=false, disconnected=false, uuid=7932e640-2cf8-3e03-a84c-207caffd41b0, name=AdlaCraftOficial, group=null}
+[06:42:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftOficial (7932e640-2cf8-3e03-a84c-207caffd41b0) successfully connected to voice chat
+[06:42:47] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftOficial: {disabled=false, disconnected=false, uuid=7932e640-2cf8-3e03-a84c-207caffd41b0, name=AdlaCraftOficial, group=null}
+[06:43:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:43:20] [Server thread/TRACE] [FML]: Handshake channel activating
+[06:43:20] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[06:43:20] [Server thread/DEBUG] [FML]:   Next: HELLO
+[06:43:20] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[06:43:20] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[06:43:20] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:14 mods->FMLHandshakeServerState$2:HELLO
+[06:43:20] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,travelersbackpack@1.0.35
+[06:43:20] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[06:43:20] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[06:43:20] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[06:43:21] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[06:43:21] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[06:43:21] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[06:43:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[06:43:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AdlaCraftYT[/127.93.79.167:39921] logged in with entity id 23146 at (200.76881960419138, 70.0, 230.69999998807907)
+[06:43:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT joined the game
+[06:43:21] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of AdlaCraftYT: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[06:43:21] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[06:43:26] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of AdlaCraftYT (18)
+[06:43:26] [Server thread/DEBUG] [voicechat]: [voicechat] Sending initial states to AdlaCraftYT
+[06:43:26] [Server thread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with AdlaCraftYT
+[06:43:26] [Server thread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with AdlaCraftYT
+[06:43:26] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[06:43:32] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[06:43:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[06:43:33] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of AdlaCraftYT to connected: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[06:43:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[06:43:33] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[06:43:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftOficial lost connection: Disconnected
+[06:43:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftOficial left the game
+[06:43:46] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of AdlaCraftOficial
+[06:43:46] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftOficial
+[06:43:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:44:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:45:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:46:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:46:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:47:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:48:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:49:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:49:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:50:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:51:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:51:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT was slain by Zombie Villager
+[06:52:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
