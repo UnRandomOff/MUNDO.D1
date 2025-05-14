@@ -130,3 +130,24 @@
 [05:33:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
 [05:33:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
 [05:33:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[06:37:35] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[06:37:35] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[06:37:35] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[06:37:35] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[06:37:35] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[06:37:35] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[06:40:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[06:40:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[06:40:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[06:40:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Timed out
+[06:40:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[06:40:43] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[06:41:14] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[06:41:14] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,travelersbackpack@1.0.35
+[06:41:44] [Netty Epoll Server IO #7/ERROR] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[06:41:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Timed out
+[06:41:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[06:41:44] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[06:42:30] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[06:42:30] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2859,mocreatures@12.0.5,bettercaves@1.12.2,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,travelersbackpack@1.0.35

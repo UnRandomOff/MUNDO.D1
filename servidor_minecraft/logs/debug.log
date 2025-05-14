@@ -7815,3 +7815,76 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [06:30:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [06:31:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [06:31:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:32:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:33:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:34:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:34:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:35:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:36:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:37:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:37:35] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[06:37:35] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[06:37:35] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[06:37:35] [Server thread/DEBUG] [bettercaves]: CAVE INFORMATION
+[06:37:35] [Server thread/DEBUG] [bettercaves]: --> MAX POSSIBLE THRESHOLD: 1.0
+[06:37:35] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 15
+[06:37:35] [Server thread/DEBUG] [bettercaves]: --> TOTAL RANGE LENGTH: 2.0
+[06:37:35] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[06:37:35] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[06:37:35] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[06:37:35] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[06:37:35] [Server thread/DEBUG] [bettercaves]: CAVERN INFORMATION
+[06:37:35] [Server thread/DEBUG] [bettercaves]: --> SPAWN CHANCE SET TO: 0.25
+[06:37:35] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 20
+[06:37:35] [Server thread/DEBUG] [bettercaves]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[06:37:35] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[06:37:35] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[06:37:35] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[06:37:35] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[06:37:35] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[06:37:35] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[06:37:35] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[06:37:35] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[06:37:35] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[06:37:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:38:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:39:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:40:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:40:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[06:40:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[06:40:29] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to AdlaCraftYT
+[06:40:29] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with AdlaCraftYT
+[06:40:29] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with AdlaCraftYT
+[06:40:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[06:40:29] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 5c45bd94-2770-3aa0-9b0a-187b0a8912ab to disconnected: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[06:40:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Timed out
+[06:40:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[06:40:43] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of AdlaCraftYT
+[06:40:43] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[06:40:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:41:14] [Server thread/TRACE] [FML]: Handshake channel activating
+[06:41:14] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[06:41:14] [Server thread/DEBUG] [FML]:   Next: HELLO
+[06:41:14] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[06:41:14] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[06:41:14] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ModList:14 mods->FMLHandshakeServerState$2:HELLO
+[06:41:14] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,travelersbackpack@1.0.35
+[06:41:14] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: WAITINGCACK
+[06:41:14] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[06:41:14] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: COMPLETE
+[06:41:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:41:44] [Netty Epoll Server IO #7/ERROR] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[06:41:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Timed out
+[06:41:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[06:41:44] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of AdlaCraftYT
+[06:41:44] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[06:42:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:42:29] [Server thread/TRACE] [FML]: Handshake channel activating
+[06:42:29] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[06:42:29] [Server thread/DEBUG] [FML]:   Next: HELLO
+[06:42:30] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[06:42:30] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[06:42:30] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:14 mods->FMLHandshakeServerState$2:HELLO
+[06:42:30] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2859,mocreatures@12.0.5,bettercaves@1.12.2,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,travelersbackpack@1.0.35
+[06:42:30] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
