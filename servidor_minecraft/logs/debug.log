@@ -7954,3 +7954,40 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [06:51:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [06:51:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT was slain by Zombie Villager
 [06:52:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:52:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:53:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:54:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:55:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:55:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:56:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:57:09] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[06:57:09] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54)
+[06:57:09] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:592)
+[06:57:09] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:390)
+[06:57:09] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:61)
+[06:57:09] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[06:57:09] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:99)
+[06:57:09] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[06:57:09] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[06:57:09] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42)
+[06:57:09] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175)
+[06:57:09] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87)
+[06:57:09] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.ExecPty.setAttr(ExecPty.java:93)
+[06:57:09] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52)
+[06:57:09] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	... 4 more
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1964]: java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:46)
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at org.jline.terminal.impl.AbstractTerminal.enterRawMode(AbstractTerminal.java:94)
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at org.jline.reader.impl.LineReaderImpl.handleSignal(LineReaderImpl.java:882)
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at org.jline.terminal.impl.AbstractTerminal.raise(AbstractTerminal.java:68)
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at org.jline.terminal.impl.PosixSysTerminal.lambda$handle$1(PosixSysTerminal.java:64)
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at org.jline.utils.Signals.lambda$register$1(Signals.java:51)
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at com.sun.proxy.$Proxy27.handle(Unknown Source)
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at sun.misc.Signal$1.run(Signal.java:212)
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at java.lang.Thread.run(Thread.java:750)
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42)
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175)
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87)
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:44)
+[06:57:09] [SIGCONT handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	... 8 more
