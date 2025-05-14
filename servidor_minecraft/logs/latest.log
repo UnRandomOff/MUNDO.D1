@@ -242,3 +242,6 @@
 [23:24:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
 [23:24:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
 [23:35:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT was shot by Skeleton
+[23:42:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Disconnected
+[23:42:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[23:42:54] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT

@@ -12209,3 +12209,20 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [23:38:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:38:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:39:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:40:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:41:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:41:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:42:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:42:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Disconnected
+[23:42:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[23:42:54] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of AdlaCraftYT
+[23:42:54] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[23:43:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:44:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:44:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:45:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:46:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:47:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:47:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:48:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:49:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
