@@ -12242,3 +12242,22 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [04:53:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
 [04:53:20] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
 [04:53:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:54:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:55:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:55:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT fell from a high place
+[04:55:13] [Server thread/DEBUG] [twilightforest]: Player AdlaCraftYT respawned and received items held in storage
+[04:55:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:56:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT was shot by Skeleton
+[04:56:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:56:37] [Server thread/DEBUG] [twilightforest]: Player AdlaCraftYT respawned and received items held in storage
+[04:57:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:58:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:58:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:59:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:00:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:01:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:01:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:02:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:03:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:04:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT has made the advancement [Diamonds!]
+[05:04:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

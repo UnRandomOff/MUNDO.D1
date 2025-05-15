@@ -232,3 +232,6 @@
 [04:53:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
 [04:53:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
 [04:53:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[04:55:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT fell from a high place
+[04:56:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT was shot by Skeleton
+[05:04:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT has made the advancement [Diamonds!]
