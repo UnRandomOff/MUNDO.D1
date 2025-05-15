@@ -12389,3 +12389,17 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [02:30:05] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of AdlaCraftYT to connected: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
 [02:30:05] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
 [02:30:06] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[02:30:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:30:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:31:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:32:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:33:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:33:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:34:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:35:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:36:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:36:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:37:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:38:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:39:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:39:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
