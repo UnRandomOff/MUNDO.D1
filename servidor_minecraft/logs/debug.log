@@ -12261,3 +12261,40 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [05:03:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:04:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT has made the advancement [Diamonds!]
 [05:04:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:04:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:05:27] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[05:05:27] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[05:05:27] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[05:05:27] [Server thread/DEBUG] [bettercaves]: CAVE INFORMATION
+[05:05:27] [Server thread/DEBUG] [bettercaves]: --> MAX POSSIBLE THRESHOLD: 1.0
+[05:05:27] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 15
+[05:05:27] [Server thread/DEBUG] [bettercaves]: --> TOTAL RANGE LENGTH: 2.0
+[05:05:27] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[05:05:27] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[05:05:27] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[05:05:27] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[05:05:27] [Server thread/DEBUG] [bettercaves]: CAVERN INFORMATION
+[05:05:27] [Server thread/DEBUG] [bettercaves]: --> SPAWN CHANCE SET TO: 0.25
+[05:05:27] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 20
+[05:05:27] [Server thread/DEBUG] [bettercaves]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[05:05:27] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[05:05:27] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[05:05:27] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[05:05:27] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[05:05:27] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[05:05:27] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[05:05:27] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[05:05:27] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[05:05:27] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[05:05:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:06:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:07:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:07:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:08:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:09:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:10:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:10:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:11:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:12:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:13:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:13:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
