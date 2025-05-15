@@ -12406,3 +12406,36 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [05:32:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:33:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:34:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:34:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:35:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:36:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:37:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:37:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:37:59] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[05:37:59] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[05:37:59] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to AdlaCraftYT
+[05:37:59] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with AdlaCraftYT
+[05:37:59] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with AdlaCraftYT
+[05:37:59] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[05:37:59] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 5c45bd94-2770-3aa0-9b0a-187b0a8912ab to disconnected: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[05:38:14] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49829
+[05:38:14] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49829
+[05:38:14] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49829
+[05:38:14] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49829
+[05:38:14] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49829
+[05:38:14] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49829
+[05:38:14] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49829
+[05:38:14] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49829
+[05:38:14] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49829
+[05:38:14] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:49829
+[05:38:15] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[05:38:15] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[05:38:16] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[05:38:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:39:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:40:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:40:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:41:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:42:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:43:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:43:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

@@ -322,3 +322,7 @@
 [05:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /whitelist <on|off|list|add|remove|reload>
 [05:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /worldborder <set|center|damage|warning|get|add> ...
 [05:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /xp <amount> [player] OR /xp <amount>L [player]
+[05:37:59] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[05:37:59] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[05:37:59] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[05:38:15] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab

@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-05-15 05:39:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-05-15 01:29:25 +0000"
