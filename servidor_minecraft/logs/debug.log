@@ -12403,3 +12403,42 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [02:38:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:39:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:39:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:40:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:41:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:42:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:42:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:43:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:44:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:45:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:45:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:46:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:47:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:48:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:48:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:49:30] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[02:49:30] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[02:49:30] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[02:49:30] [Server thread/DEBUG] [bettercaves]: CAVE INFORMATION
+[02:49:30] [Server thread/DEBUG] [bettercaves]: --> MAX POSSIBLE THRESHOLD: 1.0
+[02:49:30] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 15
+[02:49:30] [Server thread/DEBUG] [bettercaves]: --> TOTAL RANGE LENGTH: 2.0
+[02:49:30] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[02:49:30] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[02:49:30] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[02:49:30] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[02:49:30] [Server thread/DEBUG] [bettercaves]: CAVERN INFORMATION
+[02:49:30] [Server thread/DEBUG] [bettercaves]: --> SPAWN CHANCE SET TO: 0.25
+[02:49:30] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 20
+[02:49:30] [Server thread/DEBUG] [bettercaves]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[02:49:30] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[02:49:30] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[02:49:30] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[02:49:30] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[02:49:30] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[02:49:30] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[02:49:30] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[02:49:30] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[02:49:30] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[02:49:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:49:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT tried to swim in lava
+[02:49:45] [Server thread/DEBUG] [twilightforest]: Player AdlaCraftYT respawned and received items held in storage
