@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-15 03:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-05-14 23:21:51 +0000",
@@ -408,7 +414,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-05-15 03:29:08 +0000",
-      "apple": "2025-05-15 01:26:35 +0000"
+      "apple": "2025-05-15 01:26:35 +0000",
+      "cooked_chicken": "2025-05-15 03:40:43 +0000"
     },
     "done": false
   },
