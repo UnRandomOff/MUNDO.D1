@@ -241,3 +241,84 @@
 [05:05:27] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
 [05:05:27] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
 [05:05:27] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[05:18:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[05:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 2 of 11 (/help <page>) ---
+[05:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: commands.customspawner.usage
+[05:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /debug <start|stop>
+[05:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /defaultgamemode <mode>
+[05:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /deop <player>
+[05:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /difficulty <new difficulty>
+[05:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /ds help -- Help for Dynamic Surroundings
+[05:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /effect <player> <effect> [seconds] [amplifier] [hideParticles] OR /effect <player> clear
+[05:18:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 5 of 11 (/help <page>) ---
+[05:18:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /mca <subcommand> <arguments>
+[05:18:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /mca-admin <subcommand> <arguments>
+[05:18:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /me <action ...>
+[05:18:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: commands.mocpets.usage
+[05:18:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: commands.mocreatures.usage
+[05:18:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: commands.mocspawn.usage
+[05:18:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: commands.moctp.usage
+[05:19:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 3 of 11 (/help <page>) ---
+[05:19:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /enchant <player> <enchantment ID> [level]
+[05:19:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /entitydata <entity> <dataTag>
+[05:19:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /execute <entity> <x> <y> <z> <command> OR /execute <entity> <x> <y> <z> detect <x> <y> <z> <block> <dataValue|-1|state|*> <command>
+[05:19:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /fill <x1> <y1> <z1> <x2> <y2> <z2> <block> [dataValue|state] [oldBlockHandling] [dataTag]
+[05:19:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Use /forge <subcommand>
+[05:19:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /function <name> [if <selector>|unless <selector>]
+[05:19:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /gamemode <mode> [player]
+[05:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 4 of 11 (/help <page>) ---
+[05:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /gamerule <rule name> [value]
+[05:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /give <player> <item> [amount] [data] [dataTag]
+[05:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /help [page|command name]
+[05:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /kick <player> [reason ...]
+[05:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /kill [player|entity]
+[05:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /list
+[05:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /locate <feature>
+[05:19:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 6 of 11 (/help <page>) ---
+[05:19:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /op <player>
+[05:19:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /pardon <name>
+[05:19:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /pardon-ip <address>
+[05:19:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /particle <name> <x> <y> <z> <xd> <yd> <zd> <speed> [count] [mode] [player] [params]
+[05:19:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /playsound <sound> <source> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+[05:19:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /recipe <give|take> [player] <name|*>
+[05:19:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /reload
+[05:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 7 of 11 (/help <page>) ---
+[05:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /replaceitem <entity|block> ...
+[05:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /save-all [flush]
+[05:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /save-off
+[05:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /save-on
+[05:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /say <message ...>
+[05:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /scoreboard <objectives|players|teams> ...
+[05:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /securitycraft <bug|connect|convert|help|owner>
+[05:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 8 of 11 (/help <page>) ---
+[05:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /seed
+[05:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /setblock <x> <y> <z> <block> [dataValue|state] [oldBlockHandling] [dataTag]
+[05:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /setidletimeout <minutes>
+[05:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /setworldspawn [<x> <y> <z>]
+[05:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /spawnpoint [player] [<x> <y> <z>]
+[05:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
+[05:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /stats <entity|block> ...
+[05:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 9 of 11 (/help <page>) ---
+[05:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /stop
+[05:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /stopsound <player> [source] [sound]
+[05:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /summon <entityname> [x] [y] [z] [dataTag]
+[05:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /teleport <entity> <x> <y> <z> [<y-rot> <x-rot>]
+[05:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /tell <player> <private message ...>
+[05:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /tellraw <player> <raw json message>
+[05:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /testfor <player> [dataTag]
+[05:21:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 10 of 11 (/help <page>) ---
+[05:21:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /testforblock <x> <y> <z> <block> [dataValue|-1|state|*] [dataTag]
+[05:21:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /testforblocks <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [mode]
+[05:21:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /tffeature <info|reactivate|conquer|center>
+[05:21:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /time <set|add|query> <value>
+[05:21:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /title <player> title|subtitle|actionbar|clear|reset|times ...
+[05:21:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /toggledownfall
+[05:21:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /tp [target player] <destination player> OR /tp [target player] <x> <y> <z> [<yaw> <pitch>]
+[05:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 11 of 11 (/help <page>) ---
+[05:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /trigger <objective> <add|set> <value>
+[05:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: otg
+[05:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /voicechat <help|test|invite|join|leave>
+[05:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /weather <clear|rain|thunder> [duration in seconds]
+[05:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /whitelist <on|off|list|add|remove|reload>
+[05:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /worldborder <set|center|damage|warning|get|add> ...
+[05:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /xp <amount> [player] OR /xp <amount>L [player]
