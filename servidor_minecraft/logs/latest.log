@@ -242,3 +242,16 @@
 [04:57:31] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
 [04:57:31] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
 [04:57:31] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[05:13:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AdlaCraftYT: Set own game mode to Creative Mode]
+[05:13:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AdlaCraftYT: Set own game mode to Survival Mode]
+[05:14:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AdlaCraftYT: De-opped AdlaCraftYT]
+[05:15:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Disconnected
+[05:15:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[05:15:19] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[05:19:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[05:19:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:19:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[05:19:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[05:19:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[05:19:46] [Server thread/INFO] [FML]: Unloading dimension 0
+[05:19:46] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
