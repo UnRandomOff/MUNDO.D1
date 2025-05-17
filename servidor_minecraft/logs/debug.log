@@ -12278,3 +12278,112 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [19:53:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> manin, apenas consegui piedra
 [19:53:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> carajo
 [19:53:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:54:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:55:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:55:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> voy a volver a entrar, no escucho el juego
+[19:55:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:55:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mati_Gamer37 lost connection: Disconnected
+[19:55:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mati_Gamer37 left the game
+[19:55:58] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of Mati_Gamer37
+[19:55:58] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Mati_Gamer37
+[19:56:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:57:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:57:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: InsagiGOAT has made the advancement [Monster Hunter]
+[19:57:43] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:57:43] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:57:43] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:57:43] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:57:43] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[19:57:43] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:24 mods->FMLHandshakeServerState$2:HELLO
+[19:57:43] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[19:57:43] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[19:57:43] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:57:43] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[19:57:44] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:57:44] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[19:57:44] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:57:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:57:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Mati_Gamer37[/127.81.232.181:34161] logged in with entity id 6930 at (57.69999998807907, 63.0, 284.2622103929927)
+[19:57:44] [Server thread/INFO] [dsurround]: Player [Mati_Gamer37] connected with Dynamic Surroundings @VERSION@
+[19:57:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mati_Gamer37 joined the game
+[19:57:44] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of Mati_Gamer37: {disabled=false, disconnected=true, uuid=49423e81-5fd7-3a21-a5f0-53872438e750, name=Mati_Gamer37, group=null}
+[19:57:44] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:57:50] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Mati_Gamer37 (18)
+[19:57:50] [Server thread/DEBUG] [voicechat]: [voicechat] Sending initial states to Mati_Gamer37
+[19:57:50] [Server thread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with Mati_Gamer37
+[19:57:50] [Server thread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Mati_Gamer37
+[19:57:50] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Mati_Gamer37
+[19:58:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:58:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> hola
+[19:58:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mati_Gamer37 lost connection: Timed out
+[19:58:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mati_Gamer37 left the game
+[19:58:14] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of Mati_Gamer37
+[19:58:14] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Mati_Gamer37
+[19:58:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> HOLA BRO
+[19:58:35] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:36] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:37] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:38] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:39] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:40] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:41] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:42] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:43] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:45] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:58:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:54] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:55] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:56] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:57] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:58:58] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 49423e81-5fd7-3a21-a5f0-53872438e750 does not have a secret
+[19:59:04] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:59:04] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:59:04] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:59:04] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:59:04] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[19:59:04] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $ModList:24 mods->FMLHandshakeServerState$2:HELLO
+[19:59:04] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[19:59:04] [Netty Epoll Server IO #4/DEBUG] [FML]:   Next: WAITINGCACK
+[19:59:04] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:59:04] [Netty Epoll Server IO #4/DEBUG] [FML]:   Next: COMPLETE
+[19:59:05] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:59:05] [Netty Epoll Server IO #4/DEBUG] [FML]:   Next: DONE
+[19:59:05] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:59:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:59:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Mati_Gamer37[/127.81.232.181:33633] logged in with entity id 7447 at (54.60915160728624, 63.0, 282.626148350774)
+[19:59:05] [Server thread/INFO] [dsurround]: Player [Mati_Gamer37] connected with Dynamic Surroundings @VERSION@
+[19:59:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mati_Gamer37 joined the game
+[19:59:05] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of Mati_Gamer37: {disabled=false, disconnected=true, uuid=49423e81-5fd7-3a21-a5f0-53872438e750, name=Mati_Gamer37, group=null}
+[19:59:05] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:59:06] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Mati_Gamer37 (18)
+[19:59:06] [Server thread/DEBUG] [voicechat]: [voicechat] Sending initial states to Mati_Gamer37
+[19:59:06] [Server thread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with Mati_Gamer37
+[19:59:06] [Server thread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Mati_Gamer37
+[19:59:06] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Mati_Gamer37
+[19:59:14] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 49423e81-5fd7-3a21-a5f0-53872438e750
+[19:59:15] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 49423e81-5fd7-3a21-a5f0-53872438e750
+[19:59:15] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Mati_Gamer37 to connected: {disabled=false, disconnected=false, uuid=49423e81-5fd7-3a21-a5f0-53872438e750, name=Mati_Gamer37, group=null}
+[19:59:15] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Mati_Gamer37 (49423e81-5fd7-3a21-a5f0-53872438e750) successfully connected to voice chat
+[19:59:15] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of Mati_Gamer37: {disabled=true, disconnected=false, uuid=49423e81-5fd7-3a21-a5f0-53872438e750, name=Mati_Gamer37, group=null}
+[19:59:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:59:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> man
+[19:59:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> engo medio corazon
+[19:59:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> ;C
+[20:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> ya esta amaneciendo gracias a deus
+[20:00:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:00:58] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of Mati_Gamer37: {disabled=false, disconnected=false, uuid=49423e81-5fd7-3a21-a5f0-53872438e750, name=Mati_Gamer37, group=null}
+[20:01:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:01:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> pasa coords
+[20:01:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:01:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: InsagiGOAT has made the advancement [Stone Age]
+[20:02:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:03:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
