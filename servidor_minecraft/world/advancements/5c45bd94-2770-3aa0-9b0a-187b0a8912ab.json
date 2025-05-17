@@ -283,6 +283,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-17 20:32:49 +0000",
       "cooked_beef": "2025-05-15 03:29:08 +0000",
       "apple": "2025-05-15 01:26:35 +0000",
       "cooked_chicken": "2025-05-15 03:40:43 +0000"
@@ -496,6 +497,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-16 03:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-17 20:31:14 +0000"
     },
     "done": true
   },
