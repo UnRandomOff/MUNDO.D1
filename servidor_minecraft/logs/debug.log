@@ -12387,3 +12387,30 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [20:01:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: InsagiGOAT has made the advancement [Stone Age]
 [20:02:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:03:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:04:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:04:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: InsagiGOAT has made the advancement [Suit Up]
+[20:04:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:05:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> holaaaa
+[20:05:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> pasa las coords
+[20:05:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> -303 64 217
+[20:05:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> estoy en una aldea
+[20:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> jajaajaj
+[20:05:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:05:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> ya voy
+[20:06:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:07:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:07:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mati_Gamer37 has made the advancement [Acquire Hardware]
+[20:07:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mati_Gamer37 has made the advancement [Suit Up]
+[20:07:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:08:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:09:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:10:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:10:20] [Server thread/INFO] [mca]: Villager death: Gigi. Caused by: Mati_Gamer37. UUID: a52a7f78-12b9-41b7-8db9-c31fffc3ee2d
+[20:10:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:11:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:12:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:12:23] [Server thread/INFO] [mca]: Villager death: Lucilla. Caused by: Mati_Gamer37. UUID: ac066b60-d605-44ee-aa49-b4e74bf26665
+[20:12:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: InsagiGOAT has made the advancement [A Seedy Place]
+[20:13:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:13:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mati_Gamer37 has made the advancement [A Seedy Place]
+[20:13:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
