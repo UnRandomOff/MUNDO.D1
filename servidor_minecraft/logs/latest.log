@@ -531,3 +531,31 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [03:54:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Timed out
 [03:54:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
 [03:54:38] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[04:02:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 has made the advancement [Isn't It Iron Pick]
+[04:04:18] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[04:04:20] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[04:04:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:04:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AdlaCraftYT[/127.93.79.167:47853] logged in with entity id 139519 at (-31.5, 63.0, 253.5)
+[04:04:31] [Server thread/INFO] [dsurround]: Player [AdlaCraftYT] connected with Dynamic Surroundings @VERSION@
+[04:04:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT joined the game
+[04:04:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Timed out
+[04:04:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[04:04:46] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[04:05:41] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[04:05:41] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[04:05:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:05:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AdlaCraftYT[/127.93.79.167:38015] logged in with entity id 140899 at (-31.5, 63.0, 253.5)
+[04:05:43] [Server thread/INFO] [dsurround]: Player [AdlaCraftYT] connected with Dynamic Surroundings @VERSION@
+[04:05:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT joined the game
+[04:05:52] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of AdlaCraftYT (18)
+[04:05:52] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[04:06:12] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:06:13] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:06:13] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[04:06:23] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[04:06:23] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[04:06:23] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[04:06:32] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:06:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:06:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[04:07:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AdlaCraftYT: Teleported AdlaCraftYT to 18.5, 18.5, 367.5]
