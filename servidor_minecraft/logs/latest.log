@@ -1,301 +1,262 @@
-[22:39:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:39:19] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:39:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:39:19] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[22:39:19] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[22:39:20] [main/INFO] [FML]: Searching /workspaces/MUNDO.D1/servidor_minecraft/./mods for mods
-[22:39:20] [main/INFO] [FML]: Searching /workspaces/MUNDO.D1/servidor_minecraft/./mods/1.12.2 for mods
-[22:39:20] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from !mixinbooter-10.6.jar
-[22:39:20] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.10.jar
-[22:39:20] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.3.jar
-[22:39:20] [main/WARN] [FML]: The coremod OTGCorePlugin (com.pg85.otg.forge.asm.excluded.launch.OTGCorePlugin) is not signed!
-[22:39:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in soundphysics-1.1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[22:39:20] [main/WARN] [FML]: The coremod CoreModLoader (com.sonicether.soundphysics.CoreModLoader) is not signed!
-[22:39:20] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from voicechat-forge-1.12.2-2.5.30.jar
-[22:39:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_25.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[22:39:20] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
-[22:39:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:39:20] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[22:39:20] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MUNDO.D1/servidor_minecraft/./mods/!mixinbooter-10.6.jar Service=LaunchWrapper Env=SERVER
-[22:39:20] [main/WARN] [FML]: The coremod zone.rong.mixinbooter.MixinBooterPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[22:39:20] [main/WARN] [FML]: The coremod MixinBooter (zone.rong.mixinbooter.MixinBooterPlugin) is not signed!
-[22:39:20] [main/INFO] [MixinBooter]: Initializing Mixins...
-[22:39:20] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[22:39:20] [main/INFO] [MixinBooter]: Initializing MixinExtras...
-[22:39:20] [main/INFO] [MixinBooter]: Gathering present mods...
-[22:39:20] [main/INFO] [MixinBooter]: Finished gathering 6 coremods...
-[22:39:20] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
-[22:39:20] [main/WARN] [FML]: The coremod TransformLoader (org.orecruncher.dsurround.mixins.TransformLoader) is not signed!
-[22:39:20] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[22:39:20] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[22:39:20] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[22:39:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:39:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:39:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:39:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:39:22] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[22:39:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:39:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:39:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:39:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:39:22] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[22:39:22] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@54aca26f
-[22:39:22] [main/INFO] [MixinBooter]: Loading early loader com.sonicether.soundphysics.CoreModLoader for its mixins.
-[22:39:22] [main/INFO] [MixinBooter]: Adding [soundphysics.vanilla.mixin.json] mixin configuration.
-[22:39:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:39:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:39:22] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[22:39:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:39:22] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[22:39:22] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
-[22:39:22] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[22:39:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.server.management.PlayerList : pl
-[22:39:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:999]: OTG-Core transforming PlayerList.transformPlayerListUpdateTimeAndWeather
-[22:39:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:1001]: OTG-Core transforming PlayerList.setPlayerManager
-[22:39:22] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[22:39:23] [main/INFO] [MixinExtras|Service]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-rc.1).
-[22:39:23] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.server.management.PlayerList : pl
-[22:39:23] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:999]: OTG-Core transforming PlayerList.transformPlayerListUpdateTimeAndWeather
-[22:39:23] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:1001]: OTG-Core transforming PlayerList.setPlayerManager
-[22:39:23] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[22:39:23] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[22:39:23] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[22:39:23] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.EntityLivingBase : vp
-[22:39:23] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[22:39:23] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraftforge.registries.GameData : net/minecraftforge/registries/GameData
-[22:39:24] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.world.biome.Biome : anh
-[22:39:24] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityItem : acl
-[22:39:24] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityXPOrb : vm
-[22:39:24] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityFallingBlock : ack
-[22:39:24] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityTNTPrimed : acm
-[22:39:25] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityArrow : aeh
-[22:39:25] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityMinecart : afe
-[22:39:25] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityThrowable : aev
-[22:39:25] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityBoat : afd
-[22:39:25] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[22:39:25] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.EntityLivingBase : vp
-[22:39:26] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityShulkerBullet : aer
-[22:39:26] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityLlamaSpit : aeo
-[22:39:27] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
-[22:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[22:39:27] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[22:39:27] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[22:39:27] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[22:39:27] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[22:39:28] [Server thread/INFO] [MixinBooter]: Initializing MixinBooter's Mod Container.
-[22:39:28] [Server thread/INFO] [FML]: Searching /workspaces/MUNDO.D1/servidor_minecraft/./mods for mods
-[22:39:28] [Server thread/INFO] [FML]: Searching /workspaces/MUNDO.D1/servidor_minecraft/./mods/1.12.2 for mods
-[22:39:29] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.10
-[22:39:30] [Server thread/INFO] [FML]: Disabling mod soundphysics it is client side only.
-[22:39:30] [Server thread/WARN] [FML]: Mod voicechat is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.5.30
-[22:39:30] [Server thread/INFO] [FML]: Forge Mod Loader has identified 23 mods to load
-[22:39:30] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[22:39:30] [Server thread/WARN] [FML]: Missing English translation for bettercaves: assets/bettercaves/lang/en_us.lang
-[22:39:30] [Server thread/WARN] [FML]: Missing English translation for biomebundle: assets/biomebundle/lang/en_us.lang
-[22:39:30] [Server thread/WARN] [FML]: Missing English translation for customspawner: assets/customspawner/lang/en_us.lang
-[22:39:30] [Server thread/WARN] [FML]: Missing English translation for soundphysics: assets/soundphysics/lang/en_us.lang
-[22:39:30] [Server thread/INFO] [MixinBooter]: Loading late loader [com.sonicether.soundphysics.LateMixinLoader] for its mixins.
-[22:39:31] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, otgcore, xaerominimap_core, mixinbooter, securitycraft, bettercaves, biomebundle, customspawner, mocreatures, dsurround, gravestone, jei, mca, openterraingenerator, soundphysics, travelersbackpack, twilightforest, voicechat, xaerominimap, orelib] at CLIENT
-[22:39:31] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, otgcore, xaerominimap_core, mixinbooter, securitycraft, bettercaves, biomebundle, customspawner, mocreatures, dsurround, gravestone, jei, mca, openterraingenerator, soundphysics, travelersbackpack, twilightforest, voicechat, xaerominimap, orelib] at SERVER
-[22:39:31] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
-[22:39:31] [Server thread/WARN] [dsurround]: Invalid fingerprint detected!
-[22:39:32] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[22:39:32] [Server thread/INFO] [FML]: Found 1624 ObjectHolder annotations
-[22:39:32] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[22:39:32] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[22:39:32] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[22:39:32] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
-[22:39:33] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
-[22:39:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
-[22:39:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
-[22:39:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
-[22:39:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
-[22:39:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
-[22:39:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
-[22:39:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
-[22:39:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
-[22:39:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
-[22:39:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
-[22:39:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
-[22:39:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
-[22:39:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
-[22:39:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
-[22:39:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
-[22:39:33] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
-[22:39:34] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/latest
-[22:39:34] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/supporters
-[22:39:34] [Server thread/INFO] [mca]: Loaded 1 supporters.
-[22:39:34] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[22:39:34] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[22:39:34] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[22:39:34] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[22:39:34] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[22:39:34] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[22:39:34] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Found status: AHEAD Target: null
-[22:39:34] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
-[22:39:34] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
-[22:39:34] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[22:39:34] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
-[22:39:34] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
-[22:39:34] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
-[22:39:34] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[22:39:34] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[22:39:34] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
-[22:39:34] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
-[22:39:34] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
-[22:39:34] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
-[22:39:34] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
-[22:39:34] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
-[22:39:34] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
-[22:39:34] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
-[22:39:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
-[22:39:34] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[22:39:35] [Server thread/INFO] [FML]: Applying holder lookups
-[22:39:35] [Server thread/INFO] [FML]: Holder lookups applied
-[22:39:35] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[22:39:35] [Server thread/INFO] [FML]: Applying holder lookups
-[22:39:35] [Server thread/INFO] [FML]: Holder lookups applied
-[22:39:35] [Server thread/INFO] [mocreatures]: Registering entities...
-[22:39:36] [Server thread/INFO] [mocreatures]: Entity registration complete.
-[22:39:36] [Server thread/INFO] [FML]: Applying holder lookups
-[22:39:36] [Server thread/INFO] [FML]: Holder lookups applied
-[22:39:36] [Server thread/INFO] [FML]: Applying holder lookups
-[22:39:36] [Server thread/INFO] [FML]: Holder lookups applied
-[22:39:36] [Server thread/INFO] [FML]: Injecting itemstacks
-[22:39:36] [Server thread/INFO] [FML]: Itemstack injection complete
-[22:39:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[22:39:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[22:39:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[22:39:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[22:39:36] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[22:39:36] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:39:36] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[22:39:36] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:39:36] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:39:37] [Server thread/INFO] [FML]: Applying holder lookups
-[22:39:37] [Server thread/INFO] [FML]: Holder lookups applied
-[22:39:37] [Thread-4/INFO] [OTG]: Indexing GlobalObjects folder.
-[22:39:37] [Thread-4/INFO] [OTG]: GlobalObjects folder indexed.
-[22:39:37] [Thread-4/INFO] [OTG]: Indexing WorldObjects folder for world Biome Bundle
-[22:39:37] [Server thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraftforge.common.DimensionManager : net/minecraftforge/common/DimensionManager
-[22:39:37] [Thread-4/INFO] [OTG]: WorldObjects folder for world Biome Bundle indexed.
-[22:39:37] [Thread-4/INFO] [OTG]: All CustomObject files indexed.
-[22:39:38] [Server thread/INFO] [voicechat]: [voicechat] Compatibility version 18
-[22:39:38] [Server thread/INFO] [voicechat]: [voicechat] Loading plugins
-[22:39:38] [Server thread/INFO] [voicechat]: [voicechat] Loaded 0 plugin(s)
-[22:39:38] [Server thread/INFO] [voicechat]: [voicechat] Initializing plugins
-[22:39:38] [Server thread/INFO] [voicechat]: [voicechat] Initialized 0 plugin(s)
-[22:39:38] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[22:39:38] [Server thread/INFO] [FML]: Injecting itemstacks
-[22:39:38] [Server thread/INFO] [FML]: Itemstack injection complete
-[22:39:38] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[22:39:38] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[22:39:38] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
-[22:39:38] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 23 mods
-[22:39:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[22:39:39] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[22:39:39] [Server thread/INFO] [FML]: Applying holder lookups
-[22:39:39] [Server thread/INFO] [FML]: Holder lookups applied
-[22:39:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
-[22:39:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
-[22:39:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
-[22:39:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
-[22:39:41] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@138cb95f)
-[22:39:41] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 693 advancements
-[22:39:41] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
-[22:39:42] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@138cb95f)
-[22:39:42] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
-[22:39:42] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@138cb95f)
-[22:39:44] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
-[22:39:44] [Server thread/INFO] [FML]: Loading dimension -17 (world) (net.minecraft.server.dedicated.DedicatedServer@138cb95f)
-[22:39:44] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[22:39:45] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [Wyvern Lair]
-[22:39:45] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@138cb95f)
-[22:39:45] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [twilight_forest]
-[22:39:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[22:39:45] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
-[22:39:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 56%
-[22:39:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (8.231s)! For help, type "help" or "?"
-[22:39:48] [Server thread/WARN] [voicechat]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[22:39:48] [VoiceChatServerThread/INFO] [voicechat]: [voicechat] Voice host is 'mobile-permissions.gl.at.ply.gg'
-[22:39:48] [VoiceChatServerThread/INFO] [voicechat]: [voicechat] Voice chat server started at port 2591
-[22:39:49] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:39:49] [Server thread/INFO] [FML]: Unloading dimension 1
-[22:39:49] [Server thread/INFO] [FML]: Unloading dimension -17
-[22:39:49] [Server thread/INFO] [FML]: Unloading dimension 7
-[22:39:49] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[22:39:49] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
-[22:39:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:39:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Itz_CamiloVG[/127.9.63.129:45441] logged in with entity id 2493 at (-630.9091318782663, 62.07326432466507, -772.7175730996125)
-[22:39:50] [Server thread/INFO] [dsurround]: Player [Itz_CamiloVG] connected with Dynamic Surroundings @VERSION@
-[22:39:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Itz_CamiloVG joined the game
-[22:39:50] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
-[22:39:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
-[22:39:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
-[22:39:50] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
-[22:39:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
-[22:39:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
-[22:39:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:clownfish that already exists with UUID 022203e0-ce81-439d-948c-029b233c253f
-[22:39:52] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Itz_CamiloVG (18)
-[22:39:52] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Itz_CamiloVG
-[22:39:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player be13703c-8e76-31ad-822a-80ecc1fc19f0
-[22:39:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player be13703c-8e76-31ad-822a-80ecc1fc19f0
-[22:39:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Itz_CamiloVG (be13703c-8e76-31ad-822a-80ecc1fc19f0) successfully connected to voice chat
-[22:40:02] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[22:40:02] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
-[22:40:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:40:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: 0Vinced0[/127.234.229.160:42501] logged in with entity id 2761 at (-154.5, 67.0, 316.5)
-[22:40:03] [Server thread/INFO] [dsurround]: Player [0Vinced0] connected with Dynamic Surroundings @VERSION@
-[22:40:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 joined the game
-[22:40:08] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[22:40:08] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
-[22:40:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:40:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AdlaCraftYT[/127.93.79.167:53729] logged in with entity id 3097 at (-630.4354108826931, 62.07326432466507, -772.0729116037706)
-[22:40:10] [Server thread/INFO] [dsurround]: Player [AdlaCraftYT] connected with Dynamic Surroundings @VERSION@
-[22:40:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT joined the game
-[22:40:11] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of 0Vinced0 (18)
-[22:40:11] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to 0Vinced0
-[22:40:15] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 1b3bf434-cc32-3b40-ac74-8a17172b1bf9
-[22:40:16] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of AdlaCraftYT (18)
-[22:40:16] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
-[22:40:16] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 1b3bf434-cc32-3b40-ac74-8a17172b1bf9
-[22:40:16] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 0Vinced0 (1b3bf434-cc32-3b40-ac74-8a17172b1bf9) successfully connected to voice chat
-[22:40:17] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
-[22:40:18] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
-[22:40:18] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
-[22:40:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> Celemi, estamos explorando
-[22:40:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> donde
-[22:40:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> en la -641, 63, -766
-[22:41:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> esperenme ya voy
-[22:41:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> voy a suponer que la aldena la trajo angle
-[22:42:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> angel*
-[22:42:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> Negativo
-[22:44:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> wow un templo
-[22:44:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> sip
-[22:44:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> Guardate la ubicación
-[22:46:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> UN ELEFANTE
-[22:47:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> Ajam
-[22:48:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> Ya cuando este el mundo bien hacemos un zoologico
-[22:55:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[22:55:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[22:55:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[22:55:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[22:55:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[22:55:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[22:55:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[22:55:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[22:55:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[22:55:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[22:55:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[22:55:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[22:55:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[22:55:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[23:03:41] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
-[23:03:41] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
-[23:03:41] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
-[23:03:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 has made the advancement [Diamonds!]
-[23:03:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
-[23:03:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
-[23:03:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
-[23:09:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 was slain by Cave Spider
-[23:09:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> tp
+[23:16:47] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[23:16:47] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[23:16:47] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[23:16:47] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[23:16:47] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[23:16:47] [main/INFO] [FML]: Searching /workspaces/MUNDO.D1/servidor_minecraft/./mods for mods
+[23:16:47] [main/INFO] [FML]: Searching /workspaces/MUNDO.D1/servidor_minecraft/./mods/1.12.2 for mods
+[23:16:47] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from !mixinbooter-10.6.jar
+[23:16:47] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.10.jar
+[23:16:47] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.3.jar
+[23:16:47] [main/WARN] [FML]: The coremod OTGCorePlugin (com.pg85.otg.forge.asm.excluded.launch.OTGCorePlugin) is not signed!
+[23:16:47] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in soundphysics-1.1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:16:47] [main/WARN] [FML]: The coremod CoreModLoader (com.sonicether.soundphysics.CoreModLoader) is not signed!
+[23:16:47] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from voicechat-forge-1.12.2-2.5.30.jar
+[23:16:47] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_25.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:16:47] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[23:16:47] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:16:47] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[23:16:47] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MUNDO.D1/servidor_minecraft/./mods/!mixinbooter-10.6.jar Service=LaunchWrapper Env=SERVER
+[23:16:47] [main/WARN] [FML]: The coremod zone.rong.mixinbooter.MixinBooterPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:16:47] [main/WARN] [FML]: The coremod MixinBooter (zone.rong.mixinbooter.MixinBooterPlugin) is not signed!
+[23:16:47] [main/INFO] [MixinBooter]: Initializing Mixins...
+[23:16:47] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[23:16:47] [main/INFO] [MixinBooter]: Initializing MixinExtras...
+[23:16:48] [main/INFO] [MixinBooter]: Gathering present mods...
+[23:16:48] [main/INFO] [MixinBooter]: Finished gathering 6 coremods...
+[23:16:48] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[23:16:48] [main/WARN] [FML]: The coremod TransformLoader (org.orecruncher.dsurround.mixins.TransformLoader) is not signed!
+[23:16:48] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:16:48] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:16:48] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:16:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:16:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:16:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:16:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:16:49] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[23:16:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:16:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:16:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:16:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:16:49] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[23:16:49] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@54aca26f
+[23:16:49] [main/INFO] [MixinBooter]: Loading early loader com.sonicether.soundphysics.CoreModLoader for its mixins.
+[23:16:49] [main/INFO] [MixinBooter]: Adding [soundphysics.vanilla.mixin.json] mixin configuration.
+[23:16:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:16:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:16:50] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[23:16:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:16:50] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[23:16:50] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[23:16:50] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[23:16:50] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.server.management.PlayerList : pl
+[23:16:50] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:999]: OTG-Core transforming PlayerList.transformPlayerListUpdateTimeAndWeather
+[23:16:50] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:1001]: OTG-Core transforming PlayerList.setPlayerManager
+[23:16:50] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[23:16:50] [main/INFO] [MixinExtras|Service]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-rc.1).
+[23:16:51] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.server.management.PlayerList : pl
+[23:16:51] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:999]: OTG-Core transforming PlayerList.transformPlayerListUpdateTimeAndWeather
+[23:16:51] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:1001]: OTG-Core transforming PlayerList.setPlayerManager
+[23:16:51] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[23:16:51] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[23:16:51] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[23:16:51] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.EntityLivingBase : vp
+[23:16:51] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[23:16:51] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraftforge.registries.GameData : net/minecraftforge/registries/GameData
+[23:16:51] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.world.biome.Biome : anh
+[23:16:52] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityItem : acl
+[23:16:52] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityXPOrb : vm
+[23:16:52] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityFallingBlock : ack
+[23:16:52] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityTNTPrimed : acm
+[23:16:53] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityArrow : aeh
+[23:16:53] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityMinecart : afe
+[23:16:53] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityThrowable : aev
+[23:16:53] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityBoat : afd
+[23:16:53] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[23:16:53] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.EntityLivingBase : vp
+[23:16:53] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityShulkerBullet : aer
+[23:16:53] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityLlamaSpit : aeo
+[23:16:55] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[23:16:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[23:16:55] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[23:16:55] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[23:16:55] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[23:16:55] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[23:16:55] [Server thread/INFO] [MixinBooter]: Initializing MixinBooter's Mod Container.
+[23:16:55] [Server thread/INFO] [FML]: Searching /workspaces/MUNDO.D1/servidor_minecraft/./mods for mods
+[23:16:55] [Server thread/INFO] [FML]: Searching /workspaces/MUNDO.D1/servidor_minecraft/./mods/1.12.2 for mods
+[23:16:56] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.10
+[23:16:56] [Server thread/INFO] [FML]: Disabling mod soundphysics it is client side only.
+[23:16:56] [Server thread/WARN] [FML]: Mod voicechat is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.5.30
+[23:16:56] [Server thread/INFO] [FML]: Forge Mod Loader has identified 23 mods to load
+[23:16:56] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[23:16:56] [Server thread/WARN] [FML]: Missing English translation for bettercaves: assets/bettercaves/lang/en_us.lang
+[23:16:56] [Server thread/WARN] [FML]: Missing English translation for biomebundle: assets/biomebundle/lang/en_us.lang
+[23:16:56] [Server thread/WARN] [FML]: Missing English translation for customspawner: assets/customspawner/lang/en_us.lang
+[23:16:56] [Server thread/WARN] [FML]: Missing English translation for soundphysics: assets/soundphysics/lang/en_us.lang
+[23:16:57] [Server thread/INFO] [MixinBooter]: Loading late loader [com.sonicether.soundphysics.LateMixinLoader] for its mixins.
+[23:16:57] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, otgcore, xaerominimap_core, mixinbooter, securitycraft, bettercaves, biomebundle, customspawner, mocreatures, dsurround, gravestone, jei, mca, openterraingenerator, soundphysics, travelersbackpack, twilightforest, voicechat, xaerominimap, orelib] at CLIENT
+[23:16:57] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, otgcore, xaerominimap_core, mixinbooter, securitycraft, bettercaves, biomebundle, customspawner, mocreatures, dsurround, gravestone, jei, mca, openterraingenerator, soundphysics, travelersbackpack, twilightforest, voicechat, xaerominimap, orelib] at SERVER
+[23:16:57] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[23:16:57] [Server thread/WARN] [dsurround]: Invalid fingerprint detected!
+[23:16:58] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[23:16:58] [Server thread/INFO] [FML]: Found 1624 ObjectHolder annotations
+[23:16:58] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[23:16:58] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[23:16:58] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[23:16:58] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[23:16:59] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[23:16:59] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[23:16:59] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
+[23:16:59] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
+[23:16:59] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
+[23:16:59] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
+[23:16:59] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
+[23:16:59] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
+[23:16:59] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
+[23:16:59] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
+[23:16:59] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
+[23:16:59] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
+[23:16:59] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
+[23:16:59] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
+[23:16:59] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
+[23:16:59] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
+[23:16:59] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
+[23:16:59] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
+[23:16:59] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
+[23:16:59] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[23:16:59] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
+[23:16:59] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
+[23:16:59] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[23:16:59] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[23:16:59] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
+[23:17:00] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/latest
+[23:17:00] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/supporters
+[23:17:00] [Server thread/INFO] [mca]: Loaded 1 supporters.
+[23:17:00] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[23:17:00] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[23:17:00] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[23:17:00] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[23:17:00] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[23:17:00] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[23:17:00] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Found status: AHEAD Target: null
+[23:17:00] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[23:17:00] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
+[23:17:00] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
+[23:17:01] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
+[23:17:01] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[23:17:01] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[23:17:01] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[23:17:01] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[23:17:01] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[23:17:01] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[23:17:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[23:17:01] [Server thread/INFO] [FML]: Applying holder lookups
+[23:17:01] [Server thread/INFO] [FML]: Holder lookups applied
+[23:17:01] [Server thread/INFO] [FML]: Applying holder lookups
+[23:17:01] [Server thread/INFO] [FML]: Holder lookups applied
+[23:17:01] [Server thread/INFO] [mocreatures]: Registering entities...
+[23:17:02] [Server thread/INFO] [mocreatures]: Entity registration complete.
+[23:17:02] [Server thread/INFO] [FML]: Applying holder lookups
+[23:17:02] [Server thread/INFO] [FML]: Holder lookups applied
+[23:17:02] [Server thread/INFO] [FML]: Applying holder lookups
+[23:17:02] [Server thread/INFO] [FML]: Holder lookups applied
+[23:17:02] [Server thread/INFO] [FML]: Injecting itemstacks
+[23:17:02] [Server thread/INFO] [FML]: Itemstack injection complete
+[23:17:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[23:17:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[23:17:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[23:17:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[23:17:02] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[23:17:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:17:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[23:17:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:17:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:17:03] [Server thread/INFO] [FML]: Applying holder lookups
+[23:17:03] [Server thread/INFO] [FML]: Holder lookups applied
+[23:17:03] [Thread-4/INFO] [OTG]: Indexing GlobalObjects folder.
+[23:17:03] [Thread-4/INFO] [OTG]: GlobalObjects folder indexed.
+[23:17:03] [Thread-4/INFO] [OTG]: Indexing WorldObjects folder for world Biome Bundle
+[23:17:03] [Server thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraftforge.common.DimensionManager : net/minecraftforge/common/DimensionManager
+[23:17:03] [Thread-4/INFO] [OTG]: WorldObjects folder for world Biome Bundle indexed.
+[23:17:03] [Thread-4/INFO] [OTG]: All CustomObject files indexed.
+[23:17:03] [Server thread/INFO] [voicechat]: [voicechat] Compatibility version 18
+[23:17:04] [Server thread/INFO] [voicechat]: [voicechat] Loading plugins
+[23:17:04] [Server thread/INFO] [voicechat]: [voicechat] Loaded 0 plugin(s)
+[23:17:04] [Server thread/INFO] [voicechat]: [voicechat] Initializing plugins
+[23:17:04] [Server thread/INFO] [voicechat]: [voicechat] Initialized 0 plugin(s)
+[23:17:04] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[23:17:04] [Server thread/INFO] [FML]: Injecting itemstacks
+[23:17:04] [Server thread/INFO] [FML]: Itemstack injection complete
+[23:17:04] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[23:17:04] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
+[23:17:04] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 23 mods
+[23:17:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[23:17:04] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[23:17:05] [Server thread/INFO] [FML]: Applying holder lookups
+[23:17:05] [Server thread/INFO] [FML]: Holder lookups applied
+[23:17:05] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[23:17:05] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[23:17:05] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[23:17:05] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[23:17:06] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@565945b3)
+[23:17:07] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 693 advancements
+[23:17:07] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
+[23:17:08] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@565945b3)
+[23:17:08] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[23:17:08] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@565945b3)
+[23:17:09] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[23:17:09] [Server thread/INFO] [FML]: Loading dimension -17 (world) (net.minecraft.server.dedicated.DedicatedServer@565945b3)
+[23:17:09] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [Wyvern Lair]
+[23:17:09] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@565945b3)
+[23:17:10] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [twilight_forest]
+[23:17:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[23:17:10] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[23:17:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 38%
+[23:17:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (7.485s)! For help, type "help" or "?"
+[23:17:13] [Server thread/WARN] [voicechat]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[23:17:13] [VoiceChatServerThread/INFO] [voicechat]: [voicechat] Voice host is 'mobile-permissions.gl.at.ply.gg'
+[23:17:13] [VoiceChatServerThread/INFO] [voicechat]: [voicechat] Voice chat server started at port 2591
+[23:17:13] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:17:13] [Server thread/INFO] [FML]: Unloading dimension 1
+[23:17:13] [Server thread/INFO] [FML]: Unloading dimension -17
+[23:17:13] [Server thread/INFO] [FML]: Unloading dimension 7
+[23:17:22] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[23:17:22] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[23:17:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:17:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: 0Vinced0[/127.234.229.160:49167] logged in with entity id 2482 at (402.48274447528104, 15.0, -2184.334904991255)
+[23:17:23] [Server thread/INFO] [dsurround]: Player [0Vinced0] connected with Dynamic Surroundings @VERSION@
+[23:17:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 joined the game
+[23:17:24] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of 0Vinced0 (18)
+[23:17:24] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to 0Vinced0
+[23:17:31] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 1b3bf434-cc32-3b40-ac74-8a17172b1bf9
+[23:17:32] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 1b3bf434-cc32-3b40-ac74-8a17172b1bf9
+[23:17:32] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 0Vinced0 (1b3bf434-cc32-3b40-ac74-8a17172b1bf9) successfully connected to voice chat
+[23:17:42] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[23:17:42] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[23:17:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:17:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Itz_CamiloVG[/127.9.63.129:60319] logged in with entity id 3632 at (402.7471983879714, 15.0, -2186.699999988079)
+[23:17:42] [Server thread/INFO] [dsurround]: Player [Itz_CamiloVG] connected with Dynamic Surroundings @VERSION@
+[23:17:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Itz_CamiloVG joined the game
+[23:17:44] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Itz_CamiloVG (18)
+[23:17:44] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Itz_CamiloVG
+[23:17:44] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[23:17:44] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[23:17:45] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player be13703c-8e76-31ad-822a-80ecc1fc19f0
+[23:17:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:17:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AdlaCraftYT[/127.93.79.167:41539] logged in with entity id 3634 at (400.38641318749734, 15.0, -2185.664979761154)
+[23:17:46] [Server thread/INFO] [dsurround]: Player [AdlaCraftYT] connected with Dynamic Surroundings @VERSION@
+[23:17:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT joined the game
+[23:17:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player be13703c-8e76-31ad-822a-80ecc1fc19f0
+[23:17:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Itz_CamiloVG (be13703c-8e76-31ad-822a-80ecc1fc19f0) successfully connected to voice chat
+[23:17:55] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of AdlaCraftYT (18)
+[23:17:55] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[23:18:02] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[23:18:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[23:18:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[23:19:46] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[23:19:46] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[23:19:46] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[23:19:46] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[23:19:46] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[23:19:46] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
