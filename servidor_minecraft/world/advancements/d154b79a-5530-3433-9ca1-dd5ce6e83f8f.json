@@ -124,6 +124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-05-17 20:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-17 20:33:52 +0000"
@@ -199,6 +205,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-17 20:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-05-17 20:47:52 +0000"
     },
     "done": true
   },
@@ -301,6 +313,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2025-05-16 02:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-17 20:45:50 +0000"
     },
     "done": true
   },
@@ -455,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-17 20:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-05-17 20:18:41 +0000"
@@ -470,6 +494,12 @@
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2025-05-17 20:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-17 20:45:50 +0000"
     },
     "done": true
   },
@@ -506,6 +536,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2025-05-17 20:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-17 20:45:50 +0000"
     },
     "done": true
   },
