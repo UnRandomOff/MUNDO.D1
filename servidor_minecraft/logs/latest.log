@@ -303,3 +303,24 @@
 [20:12:23] [Server thread/INFO] [mca]: Villager death: Lucilla. Caused by: Mati_Gamer37. UUID: ac066b60-d605-44ee-aa49-b4e74bf26665
 [20:12:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: InsagiGOAT has made the advancement [A Seedy Place]
 [20:13:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mati_Gamer37 has made the advancement [A Seedy Place]
+[20:15:13] [Server thread/INFO] [mca]: Villager death: Zora. Caused by: Bradley. UUID: 7a409440-11ad-4643-8af7-d5e292c4ad32
+[20:15:42] [Server thread/INFO] [mca]: Villager death: Bradley. Caused by: Malissa. UUID: 72cbbb4e-a81c-44fa-914d-6896855a17a5
+[20:16:48] [Server thread/INFO] [mca]: Villager death: Milo. Caused by: Zombie. UUID: 5d69da0c-4bd5-4da3-8841-7c20f305cbd2
+[20:17:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mati_Gamer37 has made the advancement [Monster Hunter]
+[20:17:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: InsagiGOAT has made the advancement [Getting an Upgrade]
+[20:18:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mati_Gamer37 was shot by Skeleton
+[20:19:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> matias?
+[20:19:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> donde estas?
+[20:19:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> ya voy
+[20:19:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> mori
+[20:19:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> por aqui esta tu tumba
+[20:20:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> ojo que hay un escorpion cerca
+[20:23:20] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[20:23:20] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 23 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[20:23:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:23:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AdlaCraftYT[/127.93.79.167:44631] logged in with entity id 19023 at (-104.58260738388555, 68.49520087700593, 322.4669557227797)
+[20:23:25] [Server thread/INFO] [dsurround]: Player [AdlaCraftYT] connected with Dynamic Surroundings @VERSION@
+[20:23:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT joined the game
+[20:23:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Timed out
+[20:23:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[20:23:40] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
