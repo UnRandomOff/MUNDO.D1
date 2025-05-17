@@ -13545,3 +13545,27 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [04:25:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:26:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:27:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:28:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:28:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: 0Vinced0 lost connection: Disconnected
+[04:28:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 left the game
+[04:28:31] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of 0Vinced0
+[04:28:31] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client 0Vinced0
+[04:28:32] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 1b3bf434-cc32-3b40-ac74-8a17172b1bf9 does not have a secret
+[04:28:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Itz_CamiloVG lost connection: Disconnected
+[04:28:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Itz_CamiloVG left the game
+[04:28:34] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of Itz_CamiloVG
+[04:28:34] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Itz_CamiloVG
+[04:28:34] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player be13703c-8e76-31ad-822a-80ecc1fc19f0 does not have a secret
+[04:28:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:29:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:30:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:31:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:31:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:32:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:33:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:34:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:34:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:35:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:36:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:37:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:37:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

@@ -586,3 +586,9 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [04:21:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
 [04:21:15] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
 [04:22:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to 0Vinced0: ia vuelvo
+[04:28:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: 0Vinced0 lost connection: Disconnected
+[04:28:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 left the game
+[04:28:31] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client 0Vinced0
+[04:28:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Itz_CamiloVG lost connection: Disconnected
+[04:28:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Itz_CamiloVG left the game
+[04:28:34] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Itz_CamiloVG
