@@ -12483,3 +12483,22 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [23:35:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:35:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:36:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:37:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:37:43] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=true, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[23:37:44] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[23:38:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:38:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:39:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:40:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:41:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:41:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:42:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> zzzzzzzzzzzzzzz
+[23:42:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> zzzz
+[23:42:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:43:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:44:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:44:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:45:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:46:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:46:40] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [21, -170] in dimension 0 (overworld) while populating chunk [21, -171], causing cascading worldgen lag.
+[23:46:40] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
