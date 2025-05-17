@@ -13152,3 +13152,178 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [03:46:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> la armadura de adorno
 [03:47:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:48:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:49:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:49:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:50:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 was blown up by Creeper
+[03:50:29] [Server thread/DEBUG] [twilightforest]: Player 0Vinced0 respawned and received items held in storage
+[03:50:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:50:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> hijo de puta
+[03:51:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:51:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: 0Vinced0 moved too quickly! 0.4775144520160097,-10.703928447590313,1.5579839409275564
+[03:52:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:52:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:53:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:53:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT was slain by Cave Spider
+[03:53:58] [Server thread/DEBUG] [twilightforest]: Player AdlaCraftYT respawned and received items held in storage
+[03:54:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:54:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 has made the advancement [Hot Stuff]
+[03:54:31] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[03:54:31] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[03:54:31] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to AdlaCraftYT
+[03:54:31] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with AdlaCraftYT
+[03:54:31] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with AdlaCraftYT
+[03:54:31] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[03:54:31] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 5c45bd94-2770-3aa0-9b0a-187b0a8912ab to disconnected: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[03:54:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Timed out
+[03:54:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[03:54:38] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of AdlaCraftYT
+[03:54:38] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:54:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:55:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:55:05] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:55:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:55:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:55:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:55:09] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:55:10] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:55:11] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:55:12] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:55:13] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:55:14] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:55:15] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:55:16] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:55:17] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:55:18] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[03:55:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:56:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:57:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
