@@ -12729,3 +12729,51 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [21:12:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AdlaCraftYT: Set own game mode to Survival Mode]
 [21:13:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:13:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:14:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:15:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:15:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> donde estas?
+[21:16:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> me adentre en otra mina
+[21:16:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:16:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> coordes
+[21:16:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> -457
+[21:16:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> 263
+[21:16:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:17:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:17:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> como aji?
+[21:17:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> mandala completa
+[21:17:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> -457 14 263
+[21:18:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:19:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:19:11] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[21:19:11] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[21:19:11] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to AdlaCraftYT
+[21:19:11] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with AdlaCraftYT
+[21:19:11] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with AdlaCraftYT
+[21:19:11] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[21:19:11] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 5c45bd94-2770-3aa0-9b0a-187b0a8912ab to disconnected: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[21:19:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Timed out
+[21:19:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[21:19:19] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of AdlaCraftYT
+[21:19:19] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[21:19:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:20:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:20:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> me acabo de encontrar con un fokin hombre lobo
+[21:21:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> ala
+[21:21:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:22:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:22:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:23:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:24:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:25:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:25:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:26:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:27:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:28:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:28:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:29:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:30:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:31:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:31:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:32:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:33:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:34:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
