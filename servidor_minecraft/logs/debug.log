@@ -12483,3 +12483,29 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [02:17:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
 [02:17:04] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
 [02:17:17] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[02:17:28] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[02:17:28] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[02:17:28] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to AdlaCraftYT
+[02:17:28] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with AdlaCraftYT
+[02:17:28] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with AdlaCraftYT
+[02:17:28] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[02:17:28] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 5c45bd94-2770-3aa0-9b0a-187b0a8912ab to disconnected: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[02:17:28] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[02:17:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[02:17:29] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of AdlaCraftYT to connected: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[02:17:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[02:17:29] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[02:17:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:18:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:19:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:19:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:20:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:21:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:22:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:22:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:23:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:24:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:25:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:25:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:26:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:27:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
