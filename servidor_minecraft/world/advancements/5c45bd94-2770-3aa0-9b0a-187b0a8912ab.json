@@ -1150,6 +1150,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-05-14 23:21:51 +0000",
+      "swampland": "2025-05-17 22:34:07 +0000",
       "deep_ocean": "2025-05-17 22:33:30 +0000",
       "beaches": "2025-05-15 05:17:47 +0000",
       "forest_hills": "2025-05-14 23:26:28 +0000",
