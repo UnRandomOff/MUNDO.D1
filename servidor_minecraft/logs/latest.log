@@ -470,3 +470,53 @@
 [03:27:43] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
 [03:27:43] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
 [03:27:43] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[03:27:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> osea me salvaste del creeper pero que paso
+[03:27:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Timed out
+[03:27:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[03:27:54] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[03:28:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to 0Vinced0: ni idea
+[03:28:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> hay mochilas?
+[03:28:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> si
+[03:30:11] [Netty Epoll Server IO #0/ERROR] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[03:30:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Timed out
+[03:30:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[03:30:11] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[03:30:19] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[03:30:19] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[03:30:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:30:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AdlaCraftYT[/127.93.79.167:59529] logged in with entity id 38760 at (88.75875823182324, 20.055999997735025, 367.7746832477111)
+[03:30:21] [Server thread/INFO] [dsurround]: Player [AdlaCraftYT] connected with Dynamic Surroundings @VERSION@
+[03:30:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT joined the game
+[03:30:28] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of AdlaCraftYT (18)
+[03:30:28] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[03:30:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[03:30:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[03:30:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[03:31:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> aleja me anda mandando a dormir
+[03:31:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> uuuuUUUuuuuuuu Lobo domesticado turururu
+[03:32:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> Ni a mi me tienen así
+[03:32:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> y en el colegio q?
+[03:32:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> Pues a mi no me mandan a dormir
+[03:32:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> ohhhh
+[03:32:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> pero se enoja si no la acompaña al baño
+[03:33:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> o si no le guarda el puesto una hora despues
+[03:33:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> Eyyyyy, ya mucho
+[03:33:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> asi como te rebelai in here revelate con aleja
+[03:34:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> digale "yo mando cucha Hijue-" (mentira)
+[03:36:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> UNA CASCADA
+[03:36:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> y tienen sonido+|
+[03:37:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> siii
+[03:41:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: 0Vinced0 moved too quickly! 9.616590484174111,0.41999998688697815,3.5623981160992457
+[03:42:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> pinches esqueletos
+[03:42:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> tienen arco no sniper
+[03:42:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> jajajaj
+[03:44:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> que es el oro rosa?
+[03:44:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> es lo mas valioso de el m
+[03:44:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> o al menos en este server
+[03:46:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> hp y este malgasto de antorchas
+[03:46:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> minimo fue camil
+[03:46:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 was blown up by Creeper
+[03:46:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> jajajajaa
+[03:46:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> hp vida
+[03:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> la armadura de adorno
