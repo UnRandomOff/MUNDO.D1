@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-17 23:02:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-05-14 23:39:52 +0000"
@@ -745,6 +751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2025-05-17 23:06:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-16 03:16:31 +0000"
@@ -829,6 +841,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2025-05-17 23:06:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_lapis": "2025-05-17 23:06:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-05-16 03:49:28 +0000"
@@ -844,6 +868,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-05-16 03:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_lapis": "2025-05-17 23:06:52 +0000"
     },
     "done": true
   },
@@ -880,6 +910,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2025-05-15 02:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-17 23:01:59 +0000"
     },
     "done": true
   },
@@ -988,6 +1024,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-15 05:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-17 23:01:59 +0000"
     },
     "done": true
   },
@@ -1153,11 +1195,15 @@
       "swampland": "2025-05-17 22:34:07 +0000",
       "deep_ocean": "2025-05-17 22:33:30 +0000",
       "beaches": "2025-05-15 05:17:47 +0000",
+      "desert_hills": "2025-05-17 22:56:53 +0000",
       "forest_hills": "2025-05-14 23:26:28 +0000",
       "plains": "2025-05-15 01:41:30 +0000",
+      "savanna": "2025-05-17 23:01:21 +0000",
+      "savanna_rock": "2025-05-17 23:04:41 +0000",
       "taiga": "2025-05-16 03:27:31 +0000",
       "ocean": "2025-05-17 22:29:18 +0000",
-      "river": "2025-05-16 03:31:35 +0000"
+      "river": "2025-05-16 03:31:35 +0000",
+      "desert": "2025-05-17 22:57:22 +0000"
     },
     "done": false
   },
@@ -1176,6 +1222,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-05-15 01:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-17 23:01:59 +0000"
     },
     "done": true
   },
@@ -1257,6 +1309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-17 23:02:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-05-16 03:49:28 +0000"
@@ -1269,9 +1327,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2025-05-17 23:06:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-17 22:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-05-17 23:02:56 +0000"
     },
     "done": true
   },

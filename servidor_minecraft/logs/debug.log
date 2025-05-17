@@ -12449,3 +12449,96 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [22:48:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:48:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> Ya cuando este el mundo bien hacemos un zoologico
 [22:48:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:49:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:50:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:50:30] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[22:51:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:51:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:52:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:53:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:54:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:54:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:55:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:55:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:55:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:55:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:55:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:55:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:55:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:55:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:55:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:55:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:55:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:55:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:55:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:55:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:55:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:56:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:57:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:57:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:58:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:59:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:00:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:00:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:01:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:02:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:03:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:03:41] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[23:03:41] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[23:03:41] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to AdlaCraftYT
+[23:03:41] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with AdlaCraftYT
+[23:03:41] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with AdlaCraftYT
+[23:03:41] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[23:03:41] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 5c45bd94-2770-3aa0-9b0a-187b0a8912ab to disconnected: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[23:03:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 has made the advancement [Diamonds!]
+[23:03:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50767
+[23:03:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[23:03:53] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[23:03:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[23:03:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of AdlaCraftYT to connected: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[23:03:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[23:03:53] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[23:04:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:05:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:06:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:06:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:07:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:08:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:09:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:09:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 was slain by Cave Spider
+[23:09:16] [Server thread/DEBUG] [twilightforest]: Player 0Vinced0 respawned and received items held in storage
+[23:09:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> tp
