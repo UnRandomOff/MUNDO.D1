@@ -13752,3 +13752,46 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:36:39] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
 [05:37:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:37:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:38:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:39:01] [Server thread/TRACE] [FML]: Handshake channel activating
+[05:39:01] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[05:39:01] [Server thread/DEBUG] [FML]:   Next: HELLO
+[05:39:01] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[05:39:01] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[05:39:01] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $ModList:23 mods->FMLHandshakeServerState$2:HELLO
+[05:39:01] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 23 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[05:39:01] [Netty Epoll Server IO #4/DEBUG] [FML]:   Next: WAITINGCACK
+[05:39:01] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[05:39:01] [Netty Epoll Server IO #4/DEBUG] [FML]:   Next: COMPLETE
+[05:39:03] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[05:39:03] [Netty Epoll Server IO #4/DEBUG] [FML]:   Next: DONE
+[05:39:03] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[05:39:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[05:39:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AdlaCraftYT[/127.93.79.167:50547] logged in with entity id 241093 at (35.535874480427964, 68.0, 337.03507685541894)
+[05:39:03] [Server thread/INFO] [dsurround]: Player [AdlaCraftYT] connected with Dynamic Surroundings @VERSION@
+[05:39:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT joined the game
+[05:39:03] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of AdlaCraftYT: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[05:39:03] [Netty Epoll Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[05:39:14] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of AdlaCraftYT (18)
+[05:39:14] [Server thread/DEBUG] [voicechat]: [voicechat] Sending initial states to AdlaCraftYT
+[05:39:14] [Server thread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with AdlaCraftYT
+[05:39:14] [Server thread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with AdlaCraftYT
+[05:39:14] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[05:39:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:39:18] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[05:39:21] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[05:39:21] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of AdlaCraftYT to connected: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[05:39:21] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[05:39:21] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[05:40:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:40:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:41:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:42:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:43:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:43:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:44:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:45:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:46:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:46:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:47:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:48:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
