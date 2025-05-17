@@ -260,3 +260,16 @@
 [23:19:46] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
 [23:19:46] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
 [23:19:46] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[23:28:41] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[23:28:41] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[23:28:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:28:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: InsagiGOAT[/127.226.210.100:39701] logged in with entity id 17636 at (-323.3488827109448, 64.0, 217.19879585048488)
+[23:28:42] [Server thread/INFO] [dsurround]: Player [InsagiGOAT] connected with Dynamic Surroundings @VERSION@
+[23:28:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: InsagiGOAT joined the game
+[23:28:47] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of InsagiGOAT (18)
+[23:28:47] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to InsagiGOAT
+[23:28:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player d154b79a-5530-3433-9ca1-dd5ce6e83f8f
+[23:28:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player d154b79a-5530-3433-9ca1-dd5ce6e83f8f
+[23:28:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player InsagiGOAT (d154b79a-5530-3433-9ca1-dd5ce6e83f8f) successfully connected to voice chat
+[23:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AdlaCraftYT: Teleported InsagiGOAT to 0Vinced0]
+[23:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> COORDENADAS
