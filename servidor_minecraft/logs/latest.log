@@ -447,3 +447,7 @@
 [21:39:17] [Server thread/INFO] [mca]: Villager death: Willette. Caused by: Mati_Gamer37. UUID: 0c0c4004-dad7-42f2-997f-a5bfe6021056
 [21:45:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: InsagiGOAT has made the advancement [Ice Bucket Challenge]
 [21:45:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mati_Gamer37 has made the advancement [Ice Bucket Challenge]
+[21:54:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mati_Gamer37 was slain by Charlyn (Warrior)
+[21:55:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mati_Gamer37 was slain by Charlyn (Warrior)
+[21:55:22] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[21:55:27] [Server thread/INFO] [mca]: Villager death: Charlyn. Caused by: InsagiGOAT. UUID: 93dcb6bb-03a1-48e2-899e-92ddc82d5988

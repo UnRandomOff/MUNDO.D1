@@ -471,6 +471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-17 21:56:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-17 19:52:43 +0000"
@@ -691,9 +697,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-17 22:01:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-17 20:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-05-17 21:56:04 +0000"
     },
     "done": true
   },
@@ -838,6 +856,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-05-17 19:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-17 21:56:04 +0000"
     },
     "done": true
   },
@@ -993,6 +1017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-17 21:56:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-05-17 20:48:05 +0000"
@@ -1074,6 +1104,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-17 20:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-17 21:56:04 +0000"
     },
     "done": true
   },

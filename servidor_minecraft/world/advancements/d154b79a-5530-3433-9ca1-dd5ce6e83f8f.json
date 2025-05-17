@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-17 22:00:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-17 20:57:48 +0000"
@@ -838,6 +844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2025-05-17 21:55:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-17 20:01:53 +0000"
@@ -915,6 +927,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-05-17 20:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2025-05-17 21:55:28 +0000"
     },
     "done": true
   },
