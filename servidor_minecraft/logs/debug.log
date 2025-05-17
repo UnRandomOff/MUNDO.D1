@@ -13520,3 +13520,28 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [04:16:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:16:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:17:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:18:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:19:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:19:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:20:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:20:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[04:20:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[04:20:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to AdlaCraftYT
+[04:20:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with AdlaCraftYT
+[04:20:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with AdlaCraftYT
+[04:20:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[04:20:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 5c45bd94-2770-3aa0-9b0a-187b0a8912ab to disconnected: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[04:21:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Timed out
+[04:21:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[04:21:15] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of AdlaCraftYT
+[04:21:15] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[04:21:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:22:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:22:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to 0Vinced0: ia vuelvo
+[04:22:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:23:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:24:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:25:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:25:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:26:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:27:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
