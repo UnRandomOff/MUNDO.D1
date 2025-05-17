@@ -281,3 +281,109 @@
 [02:33:23] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player be13703c-8e76-31ad-822a-80ecc1fc19f0
 [02:33:24] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player be13703c-8e76-31ad-822a-80ecc1fc19f0
 [02:33:24] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Itz_CamiloVG (be13703c-8e76-31ad-822a-80ecc1fc19f0) successfully connected to voice chat
+[02:38:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Itz_CamiloVG drowned
+[02:38:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT drowned
+[02:38:26] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player be13703c-8e76-31ad-822a-80ecc1fc19f0 timed out
+[02:38:26] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Itz_CamiloVG
+[02:38:26] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Itz_CamiloVG
+[02:38:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Itz_CamiloVG lost connection: Timed out
+[02:38:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Itz_CamiloVG left the game
+[02:38:34] [Server thread/WARN] [twilightforest]: Dropping inventory items previously held in reserve for player Itz_CamiloVG
+[02:38:34] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Itz_CamiloVG
+[02:38:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped AdlaCraftYT
+[02:39:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AdlaCraftYT: Teleported AdlaCraftYT to -42.5, 7.5, 380.5]
+[02:41:01] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[02:41:01] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[02:41:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:41:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Itz_CamiloVG[/127.9.63.129:34585] logged in with entity id 11684 at (-44.635368607971046, 7.0, 378.7049366499538)
+[02:41:02] [Server thread/INFO] [dsurround]: Player [Itz_CamiloVG] connected with Dynamic Surroundings @VERSION@
+[02:41:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Itz_CamiloVG joined the game
+[02:41:05] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Itz_CamiloVG (18)
+[02:41:05] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Itz_CamiloVG
+[02:41:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player be13703c-8e76-31ad-822a-80ecc1fc19f0
+[02:41:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player be13703c-8e76-31ad-822a-80ecc1fc19f0
+[02:41:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Itz_CamiloVG (be13703c-8e76-31ad-822a-80ecc1fc19f0) successfully connected to voice chat
+[02:41:59] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[02:41:59] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[02:42:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:42:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: 0Vinced0[/127.234.229.160:58291] logged in with entity id 12373 at (-29.5, 64.0, 249.5)
+[02:42:00] [Server thread/INFO] [dsurround]: Player [0Vinced0] connected with Dynamic Surroundings @VERSION@
+[02:42:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 joined the game
+[02:42:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AdlaCraftYT: Teleported Itz_CamiloVG to AdlaCraftYT]
+[02:42:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: 0Vinced0 lost connection: Timed out
+[02:42:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 left the game
+[02:42:15] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client 0Vinced0
+[02:42:42] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[02:42:42] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[02:42:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:42:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: 0Vinced0[/127.234.229.160:56529] logged in with entity id 12550 at (-29.5, 64.0, 249.5)
+[02:42:43] [Server thread/INFO] [dsurround]: Player [0Vinced0] connected with Dynamic Surroundings @VERSION@
+[02:42:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 joined the game
+[02:42:45] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of 0Vinced0 (18)
+[02:42:45] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to 0Vinced0
+[02:42:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 1b3bf434-cc32-3b40-ac74-8a17172b1bf9
+[02:42:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 1b3bf434-cc32-3b40-ac74-8a17172b1bf9
+[02:42:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 0Vinced0 (1b3bf434-cc32-3b40-ac74-8a17172b1bf9) successfully connected to voice chat
+[02:45:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> adla
+[02:45:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> lo de los sonidos cuando crafteo es un mod?
+[02:45:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> cuentame
+[02:45:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> absou
+[02:45:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> vaya
+[02:46:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> absolutamente todo tiene sonidos
+[02:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> eso veo
+[02:48:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> DIOS EL PISAR LA PIEDRA
+[02:48:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 has made the advancement [Stone Age]
+[02:48:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> seh
+[02:49:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 has made the advancement [Getting an Upgrade]
+[02:49:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AdlaCraftYT: Teleported AdlaCraftYT to -152.5, 67.5, 312.5]
+[02:49:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> Adla?
+[02:49:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> david stas son las coords de la bas e provisional
+[02:49:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> -153, 67, 312
+[02:49:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AdlaCraftYT: Teleported AdlaCraftYT to -22.5, 15.5, 378.5]
+[02:50:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> dale al rato ire
+[02:50:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> Celemi, Adla me abandono
+[02:50:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> XD
+[02:50:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> adla no es gadiel para que andes poniendo quejas
+[02:50:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> ya volvi
+[02:50:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> Bueno
+[02:52:34] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[02:52:34] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[02:52:34] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[02:52:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Timed out
+[02:52:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[02:52:53] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[02:53:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> Ahora si me abandonaron
+[02:53:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> :(
+[02:53:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> ntp ome
+[02:53:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 was slain by Zombie
+[02:53:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Itz_CamiloVG> jajajajajaja
+[02:53:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> si ves por escribirte
+[02:53:32] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[02:53:32] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[02:53:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:53:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AdlaCraftYT[/127.93.79.167:48805] logged in with entity id 17715 at (17.599526558455878, 18.0, 368.4286787817804)
+[02:53:36] [Server thread/INFO] [dsurround]: Player [AdlaCraftYT] connected with Dynamic Surroundings @VERSION@
+[02:53:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT joined the game
+[02:53:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[02:53:49] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of AdlaCraftYT (18)
+[02:53:49] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[02:53:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[02:53:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[02:53:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[02:54:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[02:54:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[02:54:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[02:54:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[02:54:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[02:54:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[02:54:27] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[02:54:27] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[02:54:27] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[02:54:28] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[02:54:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[02:54:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[02:54:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 has made the advancement [Monster Hunter]
+[02:55:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> DIOS ADLA
+[02:55:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> amo lo de los sonidos
+[02:55:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> q pajo?
+[02:55:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> seh
