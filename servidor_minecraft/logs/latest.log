@@ -524,3 +524,26 @@
 [22:13:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mati_Gamer37> me va un poquito muy lag
 [22:19:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: InsagiGOAT has made the advancement [Take Aim]
 [22:22:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: InsagiGOAT was slain by Mati_Gamer37
+[22:25:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mati_Gamer37 lost connection: Disconnected
+[22:25:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mati_Gamer37 left the game
+[22:25:04] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Mati_Gamer37
+[22:26:09] [Server thread/INFO] [mca]: Villager death: Evette. Caused by: InsagiGOAT. UUID: e7902566-ed60-48e3-b55b-eed7fce322f3
+[22:26:10] [Server thread/INFO] [mca]: Villager death: Myung. Caused by: InsagiGOAT. UUID: 355def20-ad9f-4b5f-b286-f5d5a04f5510
+[22:27:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> eu
+[22:27:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> que hacen?
+[22:27:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> eu
+[22:27:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> dormir
+[22:27:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> quien falta por dormir
+[22:27:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> ya estoy mimiendo
+[22:27:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> va
+[22:30:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:30:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:30:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:30:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:30:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:30:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[22:31:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> Digan coordenadas
+[22:31:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> pa ir un rato
+[22:31:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: InsagiGOAT lost connection: Disconnected
+[22:31:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: InsagiGOAT left the game
+[22:31:58] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client InsagiGOAT
