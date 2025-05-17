@@ -12813,3 +12813,42 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [02:55:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:56:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:57:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:57:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 was slain by HorseMob
+[02:57:56] [Server thread/DEBUG] [twilightforest]: Player 0Vinced0 respawned and received items held in storage
+[02:58:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:58:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> me acaba de matar un caballo?
+[02:58:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 was slain by Zombie
+[02:58:35] [Server thread/DEBUG] [twilightforest]: Player 0Vinced0 respawned and received items held in storage
+[02:58:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> tal vez era escqueletico
+[02:58:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> no
+[02:58:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:58:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> tenia alas
+[02:59:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 was slain by Zombie
+[02:59:18] [Server thread/DEBUG] [twilightforest]: Player 0Vinced0 respawned and received items held in storage
+[02:59:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:59:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT was slain by Cave Spider
+[02:59:48] [Server thread/DEBUG] [twilightforest]: Player AdlaCraftYT respawned and received items held in storage
+[03:00:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Itz_CamiloVG was slain by Cave Spider
+[03:00:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:00:17] [Server thread/DEBUG] [twilightforest]: Player Itz_CamiloVG respawned and received items held in storage
+[03:00:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 was killed by Witch using magic
+[03:00:55] [Server thread/DEBUG] [twilightforest]: Player 0Vinced0 respawned and received items held in storage
+[03:01:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:01:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:02:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:03:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:03:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 was killed by Witch using magic
+[03:03:54] [Server thread/DEBUG] [twilightforest]: Player 0Vinced0 respawned and received items held in storage
+[03:04:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:04:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:04:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 was slain by Zombie
+[03:04:50] [Server thread/DEBUG] [twilightforest]: Player 0Vinced0 respawned and received items held in storage
+[03:05:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:05:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Itz_CamiloVG was slain by 0Vinced0
+[03:05:59] [Server thread/DEBUG] [twilightforest]: Player Itz_CamiloVG respawned and received items held in storage
+[03:06:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:06:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 was slain by Itz_CamiloVG
+[03:06:34] [Server thread/DEBUG] [twilightforest]: Player 0Vinced0 respawned and received items held in storage
+[03:06:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AdlaCraftYT: Teleported AdlaCraftYT to 41.5, 19.5, 383.5]
+[03:06:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AdlaCraftYT: Teleported Itz_CamiloVG to AdlaCraftYT]
+[03:07:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
