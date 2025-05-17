@@ -13457,3 +13457,66 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [04:07:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:07:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AdlaCraftYT: Teleported AdlaCraftYT to 18.5, 18.5, 367.5]
 [04:07:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:08:27] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=true, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[04:08:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:09:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:10:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:10:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:11:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:12:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:12:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 has made the advancement [Sweet dreams]
+[04:12:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Itz_CamiloVG has made the advancement [Sweet dreams]
+[04:13:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:13:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:13:58] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[04:14:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:15:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[04:15:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[04:15:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to AdlaCraftYT
+[04:15:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with AdlaCraftYT
+[04:15:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with AdlaCraftYT
+[04:15:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[04:15:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 5c45bd94-2770-3aa0-9b0a-187b0a8912ab to disconnected: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[04:15:13] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:57528
+[04:15:13] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:57528
+[04:15:13] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:57528
+[04:15:13] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[04:15:13] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:57528
+[04:15:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:15:17] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[04:15:18] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:15:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:15:19] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of AdlaCraftYT to connected: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[04:15:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[04:15:19] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[04:15:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[04:15:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[04:15:30] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to AdlaCraftYT
+[04:15:30] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with AdlaCraftYT
+[04:15:30] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with AdlaCraftYT
+[04:15:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[04:15:30] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 5c45bd94-2770-3aa0-9b0a-187b0a8912ab to disconnected: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[04:15:32] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:15:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:15:33] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of AdlaCraftYT to connected: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[04:15:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[04:15:33] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[04:15:43] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[04:15:43] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[04:15:43] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to AdlaCraftYT
+[04:15:43] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with AdlaCraftYT
+[04:15:43] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with AdlaCraftYT
+[04:15:43] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[04:15:43] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 5c45bd94-2770-3aa0-9b0a-187b0a8912ab to disconnected: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[04:15:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:43314
+[04:15:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:43314
+[04:15:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:43314
+[04:15:48] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=true, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[04:15:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:15:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:15:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of AdlaCraftYT to connected: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[04:15:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[04:15:49] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of AdlaCraftYT: {disabled=false, disconnected=false, uuid=5c45bd94-2770-3aa0-9b0a-187b0a8912ab, name=AdlaCraftYT, group=null}
+[04:16:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:16:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:17:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

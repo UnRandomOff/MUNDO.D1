@@ -559,3 +559,23 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [04:06:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
 [04:06:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
 [04:07:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AdlaCraftYT: Teleported AdlaCraftYT to 18.5, 18.5, 367.5]
+[04:12:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 0Vinced0 has made the advancement [Sweet dreams]
+[04:12:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Itz_CamiloVG has made the advancement [Sweet dreams]
+[04:15:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[04:15:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[04:15:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[04:15:18] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:15:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:15:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[04:15:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[04:15:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[04:15:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[04:15:32] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:15:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:15:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
+[04:15:43] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[04:15:43] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[04:15:43] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[04:15:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:15:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab
+[04:15:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player AdlaCraftYT (5c45bd94-2770-3aa0-9b0a-187b0a8912ab) successfully connected to voice chat
