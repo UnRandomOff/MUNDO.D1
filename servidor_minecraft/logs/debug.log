@@ -13727,3 +13727,28 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:26:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:27:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:28:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:28:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:29:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:30:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:31:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:31:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:32:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:33:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:34:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:34:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:35:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:36:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:36:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Disconnected
+[05:36:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[05:36:38] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of AdlaCraftYT
+[05:36:38] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[05:36:38] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[05:36:38] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[05:36:38] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[05:36:38] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[05:36:38] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[05:36:38] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[05:36:38] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[05:36:39] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab does not have a secret
+[05:37:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:37:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
