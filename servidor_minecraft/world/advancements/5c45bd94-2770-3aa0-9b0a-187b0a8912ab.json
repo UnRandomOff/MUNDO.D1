@@ -623,6 +623,7 @@
     "criteria": {
       "skeleton": "2025-05-15 01:39:32 +0000",
       "zombie": "2025-05-15 01:24:00 +0000",
+      "cave_spider": "2025-05-17 03:16:29 +0000",
       "witch": "2025-05-15 05:46:14 +0000",
       "spider": "2025-05-15 02:43:20 +0000",
       "enderman": "2025-05-16 04:10:17 +0000"
@@ -1081,6 +1082,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-05-15 01:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-17 03:15:43 +0000"
     },
     "done": true
   },
