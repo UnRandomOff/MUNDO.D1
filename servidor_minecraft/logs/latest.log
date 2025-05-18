@@ -1,3 +1,41 @@
 [00:01:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
 [00:01:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
 [00:01:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:04:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:04:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:04:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:04:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:04:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:04:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:04:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:04:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:09:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT moved wrongly!
+[00:09:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> eu esperen
+[00:10:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> si si
+[00:10:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <InsagiGOAT> ZZZZZ
+[00:10:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> vengan pues que hacen
+[00:10:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> Cam, anda lag
+[00:10:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> dale cinco
+[00:10:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AdlaCraftYT> o vengan
+[00:10:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Itz_CamiloVG lost connection: Disconnected
+[00:10:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Itz_CamiloVG left the game
+[00:10:50] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Itz_CamiloVG
+[00:10:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 5c45bd94-2770-3aa0-9b0a-187b0a8912ab timed out
+[00:10:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player AdlaCraftYT
+[00:10:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to AdlaCraftYT
+[00:10:58] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[00:10:58] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.30,FML@8.0.99.99,openterraingenerator@v9.5-R2,mixinbooter@10.6,mca@6.1.0,xaerominimap_core@1.12.2-1.0,soundphysics@1.1.12,biomebundle@5.1,jei@4.16.1.1013,tlauncher_custom_cape_skin@1.4,customspawner@3.11.4,forge@14.23.5.2860,mocreatures@12.0.5,bettercaves@1.12.2,twilightforest@3.11.1021,xaerominimap@25.2.0,mcp@9.42,gravestone@1.10.3,orelib@3.6.0.1,dsurround@@VERSION@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.10,travelersbackpack@1.0.35
+[00:10:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:10:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Itz_CamiloVG[/127.9.63.129:45429] logged in with entity id 22598 at (828.0200826214812, 63.0, -5594.173952656994)
+[00:10:59] [Server thread/INFO] [dsurround]: Player [Itz_CamiloVG] connected with Dynamic Surroundings @VERSION@
+[00:10:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Itz_CamiloVG joined the game
+[00:11:00] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Itz_CamiloVG (18)
+[00:11:00] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Itz_CamiloVG
+[00:11:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AdlaCraftYT lost connection: Timed out
+[00:11:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AdlaCraftYT left the game
+[00:11:00] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AdlaCraftYT
+[00:11:02] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player be13703c-8e76-31ad-822a-80ecc1fc19f0
+[00:11:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player be13703c-8e76-31ad-822a-80ecc1fc19f0
+[00:11:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Itz_CamiloVG (be13703c-8e76-31ad-822a-80ecc1fc19f0) successfully connected to voice chat
+[00:11:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <0Vinced0> angel
+[00:11:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Itz_CamiloVG has made the advancement [Not Today, Thank You]

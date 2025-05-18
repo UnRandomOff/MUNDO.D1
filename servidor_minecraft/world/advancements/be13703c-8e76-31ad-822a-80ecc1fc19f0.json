@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-18 00:11:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_red_dye": "2025-05-17 23:40:20 +0000"
@@ -727,6 +733,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-05-18 00:11:52 +0000",
       "zombie": "2025-05-16 03:40:12 +0000",
       "cave_spider": "2025-05-17 03:15:42 +0000",
       "spider": "2025-05-16 03:59:10 +0000"
@@ -1012,6 +1019,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-16 03:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-18 00:11:48 +0000"
     },
     "done": true
   },
